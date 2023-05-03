@@ -20,29 +20,29 @@ https://enzekgym.online/User
 
 
 ## Ekran Görüntüleri
-<img src="https://github.com/Turkmen48/enzekgymsporsalonu/blob/main/screenshots/ss%20(1).jpg" width="500" height="500">
-<img src="https://github.com/Turkmen48/enzekgymsporsalonu/blob/main/screenshots/ss%20(2).jpg" width="500" height="500">
-<img src="https://github.com/Turkmen48/enzekgymsporsalonu/blob/main/screenshots/ss%20(3).jpg" width="500" height="500">
-<img src="https://github.com/Turkmen48/enzekgymsporsalonu/blob/main/screenshots/ss%20(4).jpg" width="500" height="500">
-<img src="https://github.com/Turkmen48/enzekgymsporsalonu/blob/main/screenshots/ss%20(5).jpg" width="500" height="500">
-<img src="https://github.com/Turkmen48/enzekgymsporsalonu/blob/main/screenshots/ss%20(6).jpg" width="500" height="500">
-<img src="https://github.com/Turkmen48/enzekgymsporsalonu/blob/main/screenshots/ss%20(7).jpg" width="500" height="500">
-<img src="https://github.com/Turkmen48/enzekgymsporsalonu/blob/main/screenshots/ss%20(8).jpg" width="500" height="500">
-<img src="https://github.com/Turkmen48/enzekgymsporsalonu/blob/main/screenshots/ss%20(9).jpg" width="500" height="500">
-<img src="https://github.com/Turkmen48/enzekgymsporsalonu/blob/main/screenshots/ss%20(10).jpg" width="500" height="500">
-<img src="https://github.com/Turkmen48/enzekgymsporsalonu/blob/main/screenshots/ss%20(11).jpg" width="500" height="500">
-<img src="https://github.com/Turkmen48/enzekgymsporsalonu/blob/main/screenshots/ss%20(12).jpg" width="500" height="500">
-<img src="https://github.com/Turkmen48/enzekgymsporsalonu/blob/main/screenshots/ss%20(13).jpg" width="500" height="500">
-<img src="https://github.com/Turkmen48/enzekgymsporsalonu/blob/main/screenshots/ss%20(14).jpg" width="500" height="500">
-<img src="https://github.com/Turkmen48/enzekgymsporsalonu/blob/main/screenshots/ss%20(15).jpg" width="500" height="500">
-<img src="https://github.com/Turkmen48/enzekgymsporsalonu/blob/main/screenshots/ss%20(16).jpg" width="500" height="500">
-<img src="https://github.com/Turkmen48/enzekgymsporsalonu/blob/main/screenshots/ss%20(17).jpg" width="500" height="500">
-<img src="https://github.com/Turkmen48/enzekgymsporsalonu/blob/main/screenshots/ss%20(18).jpg" width="500" height="500">
-<img src="https://github.com/Turkmen48/enzekgymsporsalonu/blob/main/screenshots/ss%20(19).jpg" width="500" height="500">
-<img src="https://github.com/Turkmen48/enzekgymsporsalonu/blob/main/screenshots/ss%20(20).jpg" width="500" height="500">
-<img src="https://github.com/Turkmen48/enzekgymsporsalonu/blob/main/screenshots/ss%20(21).jpg" width="500" height="500">
-<img src="https://github.com/Turkmen48/enzekgymsporsalonu/blob/main/screenshots/ss%20(22).jpg" width="500" height="500">
-<img src="https://github.com/Turkmen48/enzekgymsporsalonu/blob/main/screenshots/ss%20(23).jpg" width="500" height="500">
+<img src="https://github.com/Turkmen48/enzekgymsporsalonu/blob/main/screenshots/ss%20(1).jpg" width="700" height="500">
+<img src="https://github.com/Turkmen48/enzekgymsporsalonu/blob/main/screenshots/ss%20(2).jpg" width="700" height="500">
+<img src="https://github.com/Turkmen48/enzekgymsporsalonu/blob/main/screenshots/ss%20(3).jpg" width="700" height="500">
+<img src="https://github.com/Turkmen48/enzekgymsporsalonu/blob/main/screenshots/ss%20(4).jpg" width="700" height="500">
+<img src="https://github.com/Turkmen48/enzekgymsporsalonu/blob/main/screenshots/ss%20(5).jpg" width="700" height="500">
+<img src="https://github.com/Turkmen48/enzekgymsporsalonu/blob/main/screenshots/ss%20(6).jpg" width="700" height="500">
+<img src="https://github.com/Turkmen48/enzekgymsporsalonu/blob/main/screenshots/ss%20(7).jpg" width="700" height="500">
+<img src="https://github.com/Turkmen48/enzekgymsporsalonu/blob/main/screenshots/ss%20(8).jpg" width="700" height="500">
+<img src="https://github.com/Turkmen48/enzekgymsporsalonu/blob/main/screenshots/ss%20(9).jpg" width="700" height="500">
+<img src="https://github.com/Turkmen48/enzekgymsporsalonu/blob/main/screenshots/ss%20(10).jpg" width="700" height="500">
+<img src="https://github.com/Turkmen48/enzekgymsporsalonu/blob/main/screenshots/ss%20(11).jpg" width="700" height="500">
+<img src="https://github.com/Turkmen48/enzekgymsporsalonu/blob/main/screenshots/ss%20(12).jpg" width="700" height="500">
+<img src="https://github.com/Turkmen48/enzekgymsporsalonu/blob/main/screenshots/ss%20(13).jpg" width="700" height="500">
+<img src="https://github.com/Turkmen48/enzekgymsporsalonu/blob/main/screenshots/ss%20(14).jpg" width="700" height="500">
+<img src="https://github.com/Turkmen48/enzekgymsporsalonu/blob/main/screenshots/ss%20(15).jpg" width="700" height="500">
+<img src="https://github.com/Turkmen48/enzekgymsporsalonu/blob/main/screenshots/ss%20(16).jpg" width="700" height="500">
+<img src="https://github.com/Turkmen48/enzekgymsporsalonu/blob/main/screenshots/ss%20(17).jpg" width="700" height="500">
+<img src="https://github.com/Turkmen48/enzekgymsporsalonu/blob/main/screenshots/ss%20(18).jpg" width="700" height="500">
+<img src="https://github.com/Turkmen48/enzekgymsporsalonu/blob/main/screenshots/ss%20(19).jpg" width="700" height="500">
+<img src="https://github.com/Turkmen48/enzekgymsporsalonu/blob/main/screenshots/ss%20(20).jpg" width="700" height="500">
+<img src="https://github.com/Turkmen48/enzekgymsporsalonu/blob/main/screenshots/ss%20(21).jpg" width="700" height="500">
+<img src="https://github.com/Turkmen48/enzekgymsporsalonu/blob/main/screenshots/ss%20(22).jpg" width="700" height="500">
+<img src="https://github.com/Turkmen48/enzekgymsporsalonu/blob/main/screenshots/ss%20(23).jpg" width="700" height="500">
 
 
 
