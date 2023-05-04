@@ -1,0 +1,97 @@
+﻿@model IEnumerable<UserInfo>
+@{
+    ViewData["Title"] = "Kullanıcı İşlemleri";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<h1>Kullanıcılar</h1>
+
+<table id="tbl1" class="table table-bordered">
+    <thead>
+        <tr>
+            <td>
+                Id
+            </td>
+            <td>
+                Tc
+            </td>
+            <td>
+                Ad
+            </td>
+            <td>
+                Soyad
+            </td>
+            <td>
+               Telefon
+            </td>
+            <td>
+                İşlemler
+            </td>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach(var k in Model)
+        {
+            if (k.User.IsActive)
+            {
+                <tr>
+                    <td>
+                        @k.Id
+                    </td>
+                    <td>
+                        @k.Tc
+                    </td>
+                    <td>
+                        @k.Name
+                    </td>
+                    <td>
+                        @k.Surname
+                    </td>
+                    <td>
+                        @k.Phone
+                    </td>
+                    <td align="left">
+                        <div class="dropdown">
+                            <a class="btn btn-secondary" href="#" role="button" id="dropdownMenuLink1" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                <i class="fas fa-cog"></i>
+                            </a>
+                            <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+                                <a class="dropdown-item" href="#" data-toggle="modal" data-target="#details-@(k.Id)"><i class="fas fa-info-circle"></i> Detaylar</a>
+                                <div class="dropdown-divider"></div>
+
+                               
+                                <a class="dropdown-item" style="color:orange; font-weight:bold;" href="/Admin/EditUser/@k.Id">
+                                    <i class="fas fa-user-edit">
+                                    </i> Güncelle
+                                </a>
+
+                                <a class="dropdown-item" style="color:red; font-weight:bold;" href="/Admin/Delete/@k.Id" onclick="return confirm('Gerçekten silmek istiyor musunuz?')"><i class="fas fa-trash-alt"></i> Sil</a>
+
+                            </div>
+                        </div>
+                    </td>
+                </tr>
+            }
+            @await Html.PartialAsync("Details",k)
+        }
+    </tbody>
+</table>
+
+@section Header{
+    <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.13.4/css/dataTables.bootstrap4.min.css" />
+}
+
+@section Scripts{
+
+
+    <script src="https://cdn.datatables.net/1.13.4/js/jquery.dataTables.min.js"></script>
+    <script src="https://cdn.datatables.net/1.13.4/js/dataTables.bootstrap4.min.js"></script>
+
+    <script>
+        $('#tbl1').DataTable();
+    </script>
+
+}
+<br />
+
+<a class="btn btn-outline-success" asp-controller="Download" asp-action="UserListDownload">Excel'e Aktar</a>

@@ -1,0 +1,11 @@
+﻿@model IEnumerable<Blog>
+@foreach(var b in Model)
+{
+    <div class="fw-recent">
+        <h6><a href="/Blog/Details/@b.Id">@b.Title</a></h6>
+        <ul>
+            <li>@b.ReadTime dk okuma süresi</li>
+           
+        </ul>
+    </div>
+}

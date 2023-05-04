@@ -1,0 +1,23 @@
+﻿@model Expense
+@{
+    ViewData["Title"] = "Gider Ekle";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<h1>Gider Ekle</h1>
+
+<form class="form-group" method="post">
+    <label>Gider:</label>
+    @Html.TextBoxFor(x=>x.ExpenseValue,"",new{@class="form-control"})
+    @Html.ValidationMessageFor(x=>x.ExpenseValue, "", new {@style="color:red"})
+    <label>Ay:</label>
+
+    @Html.TextBoxFor(x=>x.Month,"",new{@type="date",@class="form-control"})
+
+    <br />
+    <label>Açıklama:</label>
+    @Html.TextBoxFor(x=>x.Description,"",new{@class="form-control"})
+
+    <br />
+    <button type="submit" class="btn btn-primary">Ekle</button>
+</form>

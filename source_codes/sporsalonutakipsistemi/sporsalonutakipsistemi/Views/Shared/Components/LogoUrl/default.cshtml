@@ -1,0 +1,9 @@
+﻿@model SiteInfo
+@if (!string.IsNullOrEmpty(Model.LogoUrl))
+{
+    <img src="@Model.LogoUrl" alt="">
+}
+else
+{
+   <img src="/gymlife/img/logo.png" alt="">
+}

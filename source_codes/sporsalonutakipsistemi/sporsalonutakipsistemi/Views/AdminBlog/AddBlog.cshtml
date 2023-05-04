@@ -1,0 +1,30 @@
+﻿@model Blog
+@{
+    ViewData["Title"] = "Blog Ekle";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<h1>Blog Ekle</h1>
+
+<form method="post" class="form-group">
+
+    <label>Başlık</label>
+    @Html.TextBoxFor(x=>x.Title,"", new{@class="form-control"})
+    @Html.ValidationMessageFor(x=>x.Title,"", new{@style="color:red;"})
+    <br />
+    <label>Resim Url:</label>
+    @Html.TextBoxFor(x=>x.ImageUrl,"", new{@class="form-control",@type="text"})
+    @Html.ValidationMessageFor(x=>x.ImageUrl,"", new{@style="color:red;"})
+    <br />
+    <label>Okuma Süresi (dk):</label>
+    @Html.TextBoxFor(x=>x.ReadTime,"", new{@class="form-control",@type="number"})
+    @Html.ValidationMessageFor(x=>x.ReadTime,"", new{@style="color:red;"})
+    <br />
+    <label>Blog Yazısı:</label>
+    @Html.TextAreaFor(x=>x.Content, new{@class="form-control"})
+	@Html.ValidationMessageFor(x=>x.Content,"", new{@style="color:red;"})
+    <br />
+
+
+    <button type="submit" class="btn btn-outline-primary">Ekle</button>
+</form>

@@ -1,0 +1,178 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html lang="tr">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="Gym">
+    <meta name="keywords" content="Gym, unica, creative, html">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>@ViewData["Title"]</title>
+
+    <!-- Google Font -->
+    <link href="https://fonts.googleapis.com/css?family=Muli:300,400,500,600,700,800,900&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Oswald:300,400,500,600,700&display=swap" rel="stylesheet">
+
+    <!-- Css Styles -->
+    <link rel="stylesheet" href="~/gymlife/css/bootstrap.min.css" type="text/css">
+    <link rel="stylesheet" href="~/gymlife/css/font-awesome.min.css" type="text/css">
+    <link rel="stylesheet" href="~/gymlife/css/flaticon.css" type="text/css">
+    <link rel="stylesheet" href="~/gymlife/css/owl.carousel.min.css" type="text/css">
+    <link rel="stylesheet" href="~/gymlife/css/barfiller.css" type="text/css">
+    <link rel="stylesheet" href="~/gymlife/css/magnific-popup.css" type="text/css">
+    <link rel="stylesheet" href="~/gymlife/css/slicknav.min.css" type="text/css">
+    <link rel="stylesheet" href="~/gymlife/css/style.css" type="text/css">
+    @await RenderSectionAsync("DisqusCss",required:false)
+</head>
+
+<body>
+    <!-- Page Preloder -->
+    <div id="preloder">
+        <div class="loader"></div>
+    </div>
+
+    <!-- Offcanvas Menu Section Begin mobilde gözükecek isimler -->
+    <div class="offcanvas-menu-overlay"></div>
+    <div class="offcanvas-menu-wrapper">
+        <div class="canvas-close">
+            <i class="fa fa-close"></i>
+        </div>
+
+        <nav class="canvas-menu mobile-menu">
+            <ul>
+                <li><a asp-action="Index" asp-controller="Default">Anasayfa</a></li>
+                <li><a asp-action="Index" asp-controller="Blog">Blog</a></li>
+                <li><a asp-action="Index" asp-controller="Hakkimizda">Hakkımızda</a></li>
+            
+                <li><a asp-action="Index" asp-controller="Iletisim">İletişim</a></li>
+            </ul>
+        </nav>
+        <div id="mobile-menu-wrap"></div>
+        <div class="canvas-social">
+			@await Component.InvokeAsync("SocialMedia")
+        </div>
+    </div>
+    <!-- Offcanvas Menu Section End -->
+    <!-- Header Section Begin -->
+    <header class="header-section">
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-lg-3">
+                    <div class="logo">
+                        <a asp-action="Index" asp-controller="Default">
+                            @await Component.InvokeAsync("LogoUrl")
+                        </a>
+                    </div>
+                </div>
+                <div class="col-lg-6">
+                    <nav class="nav-menu">
+                        <ul>
+                            <li class=""><a asp-action="Index" asp-controller="Default">Ana Sayfa</a></li>
+                            <li><a asp-action="Index" asp-controller="Blog">Blog</a></li>
+                            <li><a asp-action="Index" asp-controller="Hakkimizda">Hakkımızda</a></li>
+                       
+                           
+                            <li><a asp-action="Index" asp-controller="Iletisim">İletişim</a></li>
+                        </ul>
+                    </nav>
+                </div>
+                <div class="col-lg-3">
+                    <div class="top-option">
+
+                        <div class="to-social">
+                            @await Component.InvokeAsync("SocialMedia")
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="canvas-open">
+                <i class="fa fa-bars"></i>
+            </div>
+        </div>
+    </header>
+    <!-- Header End -->
+    <div>
+        @RenderBody()
+    </div>
+    <!-- Footer Section Begin -->
+    <section class="footer-section">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-4">
+                    <div class="fs-about">
+                        <div class="fa-logo">
+
+							@await Component.InvokeAsync("LogoUrl")
+                        </div>
+                        <p>
+                            Kaliteli hizmet ve ucuz fiyat anlayışımızla sen de adam gibi bir vücuda sahip olmak için bize katıl!
+                        </p>
+                        <div class="fa-social">
+							@await Component.InvokeAsync("SocialMedia")
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-2 col-md-3 col-sm-6">
+                    <div class="fs-widget">
+                        <h4>Faydalı Linkler</h4>
+                        <ul>
+                            <li><a href="#">Hakkımızda</a></li>
+                            <li><a href="#">Blog</a></li>
+                            <li><a href="#">İletişim</a></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-lg-2 col-md-3 col-sm-6">
+                    <div class="fs-widget">
+                        <h4>Destek</h4>
+                        <ul>
+                            <li><a asp-controller="Login" asp-action="UserLogin">Giriş Yap</a></li>
+                      
+                         
+                            <li><a asp-controller="Iletisim" asp-action="Index">İletişim</a></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6">
+                    <div class="fs-widget">
+                        <h4>Blog Yazıları</h4>
+						@await Component.InvokeAsync("BlogFooter")
+                        
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <div class="copyright-text">
+                        <p>
+                            <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+                            Copyright &copy;<script>document.write(new Date().getFullYear());</script> Tüm Hakları Saklıdır | Hazırlayan: <i class="fa fa-heart" aria-hidden="true"></i> by <a href="https://github.com/Turkmen48" target="_blank">Enes Durmuş</a>
+                            <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- Footer Section End -->
+    <!-- Js Plugins -->
+    <script src="~/gymlife/js/jquery-3.3.1.min.js"></script>
+    <script src="~/gymlife/js/bootstrap.min.js"></script>
+    <script src="~/gymlife/js/jquery.magnific-popup.min.js"></script>
+    <script src="~/gymlife/js/masonry.pkgd.min.js"></script>
+    <script src="~/gymlife/js/jquery.barfiller.js"></script>
+    <script src="~/gymlife/js/jquery.slicknav.js"></script>
+    <script src="~/gymlife/js/owl.carousel.min.js"></script>
+    <script src="~/gymlife/js/main.js"></script>
+    <!-- Js Plugins -->
+    <!-- disqus -->
+	@await RenderSectionAsync("Disqus", required: false)
+    <!-- disqus -->
+</body>
+
+</html>

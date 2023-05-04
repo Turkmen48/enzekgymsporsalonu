@@ -1,0 +1,29 @@
+﻿@model Price
+@{
+    ViewData["Title"] = "Fiyat Güncelle";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<h1>Fiyat Güncelle</h1>
+
+<form method="post" class="form-group">
+	
+    <label>ID</label>
+	@Html.TextBoxFor(x=>x.Id,"", new{@class="form-control",@readonly="readonly"})
+    <br />
+
+    <label>Başlık</label>
+    @Html.TextBoxFor(x=>x.Title,"", new{@class="form-control",@readonly="readonly"})
+    <br />
+
+    <label>Açıklama</label>
+    @Html.TextAreaFor(x=>x.Description, new{@class="form-control",@readonly="readonly"})
+    <br />
+    <label>Ay</label>
+    @Html.TextBoxFor(x=>x.Months, new{@class="form-control",@readonly="readonly"})
+    <br />
+	<label>Fiyat</label>
+	@Html.TextBoxFor(x=>x.PriceValue,"", new{@class="form-control",@type="number",@step="0.01"})
+	<br />
+    <button type="submit" class="btn btn-outline-warning">Güncelle</button>
+</form>

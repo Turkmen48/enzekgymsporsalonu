@@ -1,0 +1,19 @@
+﻿@model IEnumerable<Blog>
+<div class="so-latest">
+    <h5 class="title">Son Yazılar</h5>
+    @await Component.InvokeAsync("BlogFirstFeature")
+    
+    @foreach (var b in Model)
+    {
+        <div class="latest-item">
+            <div class="li-pic">
+                <img src="@b.ImageUrl" alt="" width="105" height="70">
+            </div>
+            <div class="li-text">
+                <h6><a href="/Blog/Details/@b.Id">@b.Title</a></h6>
+				<span class="li-time">@b.BlogDate.ToString("dd/MM/yyyy")</span>
+            </div>
+        </div>
+    }
+
+</div>

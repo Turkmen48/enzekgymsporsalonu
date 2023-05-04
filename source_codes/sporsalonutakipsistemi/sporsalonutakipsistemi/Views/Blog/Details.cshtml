@@ -1,0 +1,145 @@
+﻿@model Blog
+@{
+    ViewData["Title"] = Model.Title;
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+<!-- Blog Details Hero Section Begin -->
+<section class="blog-details-hero set-bg" data-setbg="@Model.ImageUrl">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8 p-0 m-auto">
+                <div class="bh-text">
+                    <h3>@Model.Title</h3>
+                    <ul>
+                        <li>Yazan: Admin</li>
+                        <li>@Model.BlogDate.ToString("dd/MM/yyyy")</li>
+                        <li>Okuma Süresi: @Model.ReadTime dk</li>
+                 
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- Blog Details Hero Section End -->
+<!-- Blog Details Section Begin -->
+<section class="blog-details-section spad">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8 p-0 m-auto">
+                <div class="blog-details-title">
+                 <p>
+						@Model.Content
+                 </p>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- Blog Details Section End -->
+
+<!--disqus -->
+
+    <div id="disqus_thread"></div>
+    <script>
+        /**
+        *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+        *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
+
+        var disqus_config = function () {
+            this.page.url = '@ViewData["PAGE_URL"]';  // Replace PAGE_URL with your page's canonical URL variable
+            this.page.identifier = '@ViewData["PAGE_IDENTIFIER"]'; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+        };
+
+        (function () { // DON'T EDIT BELOW THIS LINE
+            var d = document, s = d.createElement('script');
+            s.src = 'https://enzekgym.disqus.com/embed.js';
+            s.setAttribute('data-timestamp', +new Date());
+            (d.head || d.body).appendChild(s);
+        })();
+    </script>
+    <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+
+
+<!--disqus -->
+
+	@section Disqus {
+    <script id="dsq-count-scr" src="//enzekgym.disqus.com/count.js" async></script>
+    }
+
+			@section DisqusCss{
+    <style>
+        /* Disqus koyu tema CSS kodu */
+
+        #disqus_thread {
+            background-color: #121212;
+            color: #ffffff;
+            padding: 20px;
+            font-family: Arial, sans-serif;
+            font-size: 14px;
+            line-height: 1.5;
+            border-radius: 5px;
+        }
+
+            #disqus_thread a {
+                color: #ffffff;
+            }
+
+                #disqus_thread a:hover {
+                    color: #cccccc;
+                }
+
+            #disqus_thread blockquote {
+                color: #cccccc;
+                border-color: #666666;
+            }
+
+                #disqus_thread blockquote p {
+                    font-style: italic;
+                }
+
+            #disqus_thread hr {
+                border-top-color: #666666;
+            }
+
+            #disqus_thread .comment {
+                margin-bottom: 20px;
+                padding-bottom: 20px;
+                border-bottom: 1px solid #666666;
+            }
+
+                #disqus_thread .comment .avatar {
+                    margin-right: 20px;
+                    float: left;
+                }
+
+                    #disqus_thread .comment .avatar img {
+                        width: 64px;
+                        height: 64px;
+                        border-radius: 50%;
+                        display: block;
+                    }
+
+                #disqus_thread .comment .text {
+                    overflow: hidden;
+                }
+
+                #disqus_thread .comment .author {
+                    font-weight: bold;
+                    margin-bottom: 5px;
+                }
+
+                #disqus_thread .comment .date {
+                    font-size: 12px;
+                    margin-bottom: 5px;
+                }
+
+                #disqus_thread .comment .excerpt {
+                    margin-top: 5px;
+                    font-style: italic;
+                }
+
+    </style>
+}

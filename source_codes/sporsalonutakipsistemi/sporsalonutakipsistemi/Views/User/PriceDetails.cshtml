@@ -1,0 +1,22 @@
+﻿@model UserInfo
+@{
+    ViewData["Title"] = "Üyelik Planı";
+    Layout = "~/Views/Shared/_UserLayout.cshtml";
+}
+
+<h1>Üyelik Planım</h1>
+
+<div class="form-group">
+    <label>Plan Adı:</label>
+    @Html.TextBoxFor(x=>x.Price.Title,"",new{@class="form-control",@readonly="readonly"})
+    <br />
+    <label>Ödenen Tutar:</label>
+    @Html.TextBoxFor(x=>x.Price.PriceValue,"",new{@class="form-control",@readonly="readonly"})
+    <br />
+    <label>Plan Başlama Tarihi:</label>
+    @Html.TextBoxFor(x=>x.PlanStartDate,Model.PlanStartDate.Value.ToString("dd.MM.yyyy"),new{@class="form-control",@readonly="readonly"})
+    <br />
+    <label>Plan Bitiş Tarihi:</label>
+    @Html.TextBoxFor(x=>x.PlanEndDate,Model.PlanEndDate.Value.ToString("dd.MM.yyyy"),new{@class="form-control",@readonly="readonly"})
+    
+</div>

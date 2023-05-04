@@ -1,0 +1,37 @@
+﻿@model Contact
+@{
+    ViewData["Title"] = "Mesaj Gönder";
+    Layout = "~/Views/Shared/_UserLayout.cshtml";
+}
+
+<h1>Mesaj Gönder</h1>
+<!-- success begin -->
+@if (TempData["Onay"] != null)
+{
+
+    <div class="alert alert-success alert-dismissible fade show" role="alert">
+        <strong>Başarılı!</strong> @TempData["Onay"]
+        <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+        </button>
+    </div>
+}
+<!-- success end -->
+<form class="form-group" method="post">
+	@Html.TextBoxFor(x=>x.Name,"",new{@type="Text",@placeholder="İsim", @class="form-control"})
+    @Html.ValidationMessageFor(x=>x.Name,"",new{style="color:red"})
+    <br />
+    @Html.TextBoxFor(x=>x.Surname,"",new{@type="Text",@placeholder="Soy isim", @class="form-control"})
+    @Html.ValidationMessageFor(x=>x.Surname,"",new{style="color:red"})
+    <br />
+    @Html.TextBoxFor(x=>x.Email,"",new{@type="email",@placeholder="Email", @class="form-control"})
+    @Html.ValidationMessageFor(x=>x.Email,"",new{style="color:red"})
+    <br />
+    @Html.TextBoxFor(x=>x.Subject,"",new{@type="Text",@placeholder="Konu", @class="form-control"})
+    @Html.ValidationMessageFor(x=>x.Subject,"",new{style="color:red"})
+    <br />
+    @Html.TextAreaFor(x=>x.Message,new{@type="Text",@placeholder="Mesaj", @class="form-control"})
+    @Html.ValidationMessageFor(x=>x.Message,"",new{style="color:red"})
+    <br />
+    <button type="submit" class="btn btn-outline-primary">Gönder</button>
+</form>

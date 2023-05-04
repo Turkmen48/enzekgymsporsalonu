@@ -1,0 +1,28 @@
+﻿@model Price
+@{
+    ViewData["Title"] = "Yeni Plan";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<h1>Yeni Plan Ekle</h1>
+
+<form class="form-group" method="post">
+    <label>Başlık:</label>
+	@Html.TextBoxFor(x=>x.Title,"", new{@class="form-control"})
+	@Html.ValidationMessageFor(x=>x.Title,"",new {@style="color:red;"})
+    <br />
+	<label>Fiyat:</label>
+	@Html.TextBoxFor(x=>x.PriceValue,"", new{@class="form-control",@type="number",@step="0.01"})
+	@Html.ValidationMessageFor(x=>x.PriceValue,"",new {@style="color:red;"})
+	<br />
+	<label>Ay:</label>
+	@Html.TextBoxFor(x=>x.Months,"", new{@class="form-control",@type="number"})
+	@Html.ValidationMessageFor(x=>x.Months,"",new {@style="color:red;"})
+	<br />
+	<label>Açıklama:</label>
+	@Html.TextAreaFor(x=>x.Description, new{@class="form-control"})
+	@Html.ValidationMessageFor(x=>x.Description,"",new {@style="color:red;"})
+	<br />
+	
+	<button type="submit" class="btn btn-success">Ekle</button>
+</form>

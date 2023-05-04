@@ -1,0 +1,101 @@
+﻿@model UserInfo
+@{
+    ViewData["Title"] = "Kullanıcı Ekle";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<h1>Kullanıcı Ekle</h1>
+
+<form method="post"> @*tc,ad,soyad,telefon,plan,plan başlama tarihi,plan bitiş tarihi,email,şifre,kayıt tarihi *@
+
+<div class="container">
+        <div class="row">
+            <div class="col">
+                <div class="form-group">
+                    <label for="exampleInputEmail1">TC Kimlik No</label>
+                    @Html.TextBoxFor(x=>x.Tc,"",new{@type="number",@class="form-control",@placeholder="TC Kimlik No Giriniz"})
+                    @Html.ValidationMessageFor(x=>x.Tc, "", new {@style="color:red"})
+                    
+                </div>
+            </div>
+
+            <div class="col">
+                <div class="form-group">
+                    <label for="exampleInputEmail1">Ad</label>
+                   
+                    @Html.TextBoxFor(x=>x.Name,"",new{@type="text",@class="form-control",@placeholder="İsim Giriniz"})
+                    @Html.ValidationMessageFor(x=>x.Name, "", new {@style="color:red"})
+
+                </div>
+            </div>
+            <div class="w-100"></div>
+            <div class="col">
+                <div class="form-group">
+                    <label for="exampleInputEmail1">Soyad</label>
+                    
+                    @Html.TextBoxFor(x=>x.Surname,"",new{@type="text",@class="form-control",@placeholder="Soy İsim Giriniz"})
+                    @Html.ValidationMessageFor(x=>x.Surname, "", new {@style="color:red"})
+
+                </div>
+            </div>
+
+            <div class="col">
+                <div class="form-group">
+                    <label for="exampleInputEmail1">Doğum Tarihi</label>
+                  
+                    @Html.TextBoxFor(x=>x.Birthday,"",new{@type="date",@class="form-control",@placeholder="Doğum Tarihi "})
+                    @Html.ValidationMessageFor(x=>x.Birthday, "", new {@style="color:red"})
+
+                   
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col">
+                <div class="form-group">
+                    <label for="exampleInputEmail1">Telefon</label>
+
+                    @Html.TextBoxFor(x=>x.Phone,"",new{@type="text",@class="form-control",@placeholder="Telefon No "})
+                    @Html.ValidationMessageFor(x=>x.Phone, "", new {@style="color:red"})
+
+                </div>
+            </div>
+
+            <div class="col">
+                <div class="form-group">
+                    <label for="exampleInputEmail1">Plan</label>
+                    @Html.DropDownListFor(x=>x.PriceId,(List<SelectListItem>)ViewBag.degerler,new{@class="form-control"})
+                    
+
+
+                </div>
+            </div>
+            
+            <div class="w-100"></div>
+            <div class="col">
+                <div class="form-group">
+                    <label for="exampleInputEmail1">Email</label>
+
+                    @Html.TextBoxFor(x=>x.User.Email,"",new{@type="email",@class="form-control",@placeholder="Email Giriniz"})
+                    @Html.ValidationMessageFor(x=>x.User.Email, "", new {@style="color:red"})
+
+                </div>
+            </div>
+            <div class="col">
+                <div class="form-group">
+                    <label for="exampleInputEmail1">Şifre</label>
+                   
+                    @Html.TextBoxFor(x=>x.User.Password,"",new{@type="text",@class="form-control",@placeholder="Şifre Giriniz"})
+                    @Html.ValidationMessageFor(x=>x.User.Password, "", new {@style="color:red"})
+
+                </div>
+            </div>
+            
+
+            
+        </div>
+</div>
+
+    <button type="submit" class="btn btn-primary btn-lg btn-block">Ekle</button>
+
+</form>

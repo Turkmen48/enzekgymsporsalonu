@@ -1,0 +1,15 @@
+﻿@model SiteInfo
+@{
+    ViewData["Title"] = "EditLogo";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<h1>Logoyu Düzenle</h1>
+
+<form method="post">
+	<label>Logo Url (182X41)</label>
+	@Html.TextBoxFor(x => x.LogoUrl, new { @class = "form-control" })
+	@Html.ValidationMessageFor(x => x.LogoUrl, "", new { @class = "text-danger" })
+	<br />
+	<button class="btn btn-outline-warning" type="submit">Güncelle</button>
+</form>

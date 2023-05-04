@@ -1,0 +1,35 @@
+﻿@model SiteAdressInfo
+@{
+    ViewData["Title"] = "Site Adres Güncelle";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<h1>Site Adres Güncelle</h1>
+
+<form class="form-group" method="post">
+    <label>ID:</label>
+    @Html.TextBoxFor(x=>x.Id,"",new{@class="form-control",@readonly="readonly"})
+	
+    <label>Adres:</label>
+    @Html.TextAreaFor(x=>x.Adress,new{@class="form-control"})
+    @Html.ValidationMessageFor(x=>x.Adress,"",new{style="color:red"})
+	<br />
+    <label>Telefon:</label>
+    @Html.TextBoxFor(x=>x.Phone,new{@class="form-control"})
+    @Html.ValidationMessageFor(x=>x.Phone,"",new{style="color:red"})
+    <br />
+    <label>Telefon2 (Varsa):</label>
+    @Html.TextBoxFor(x=>x.Phone2,"",new{@class="form-control"})
+    @Html.ValidationMessageFor(x=>x.Phone2,"",new{style="color:red"})
+    <br />
+    <label>Email:</label>
+    @Html.TextBoxFor(x=>x.Email,"",new{@class="form-control",@type="email"})
+    @Html.ValidationMessageFor(x=>x.Email,"",new{style="color:red"})
+    <br />
+    <label>MapUrl:</label>
+    @Html.TextAreaFor(x=>x.MapUrl,new{@class="form-control",@type="text"})
+    @Html.ValidationMessageFor(x=>x.MapUrl,"",new{style="color:red"})
+    <br />
+    <button type="submit" class="btn btn-warning">Güncelle</button>
+</form>
+

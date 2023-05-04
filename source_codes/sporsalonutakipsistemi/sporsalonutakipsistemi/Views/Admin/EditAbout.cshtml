@@ -1,0 +1,20 @@
+﻿@model SiteInfo
+@{
+    ViewData["Title"] = "EditAbout";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<h1>Hakkında Düzenle</h1>
+
+<form class="form-group" method="post">
+    <label>ID:</label>
+    @Html.TextBoxFor(x=>x.Id,"",new{@class="form-control",@readonly="readonly"})
+    <label>Başlık:</label>
+    @Html.TextBoxFor(x=>x.Title,"",new{@class="form-control"})
+    <label>Açıklama:</label>
+    @Html.TextAreaFor(x=>x.Description,new{@class="form-control"})
+    <label>Video Url:</label>
+    @Html.TextBoxFor(x=>x.VideoUrl,"",new{@class="form-control"})
+    <br />
+    <button type="submit" class="btn btn-warning">Güncelle</button>
+</form>

@@ -1,0 +1,39 @@
+﻿@model Blog
+@{
+    ViewData["Title"] = "Düzenle";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<h1>Blog Düzenle</h1>
+
+<form method="post" class="form-group">
+
+    <label>ID</label>
+    @Html.TextBoxFor(x=>x.Id,"", new{@class="form-control",@readonly="readonly"})
+    <br />
+
+    <label>Başlık</label>
+    @Html.TextBoxFor(x=>x.Title,"", new{@class="form-control"})
+    @Html.ValidationMessageFor(x=>x.Title,"", new{@style="color:red;"})
+    <br />
+    <label>Tarih:</label>
+    @Html.TextBoxFor(x => x.BlogDate,"{0:dd/MM/yyyy}",new { @class = "form-control", @readonly = "readonly", @type = "text" } )
+	
+    <br />
+    <label>Resim Url:</label>
+    @Html.TextBoxFor(x=>x.ImageUrl,"", new{@class="form-control",@type="text"})
+    @Html.ValidationMessageFor(x=>x.ImageUrl,"", new{@style="color:red;"})
+    <br />
+
+    <label>Okuma Süresi (dk):</label>
+    @Html.TextBoxFor(x=>x.ReadTime,"", new{@class="form-control",@type="number"})
+    @Html.ValidationMessageFor(x=>x.ReadTime,"", new{@style="color:red;"})
+    <br />
+    <label>Blog Yazısı:</label>
+    @Html.TextAreaFor(x=>x.Content, new{@class="form-control"})
+    @Html.ValidationMessageFor(x=>x.Content,"", new{@style="color:red;"})
+    <br />
+    
+ 
+    <button type="submit" class="btn btn-outline-warning">Güncelle</button>
+</form>

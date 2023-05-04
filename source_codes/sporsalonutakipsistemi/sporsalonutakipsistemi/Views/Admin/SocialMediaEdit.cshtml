@@ -1,0 +1,27 @@
+﻿@model SiteInfo
+@{
+	ViewData["Title"] = "Sosyal Medya Adreslerini Düzenle";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<h1>Sosyal Medya Adreslerini Düzenle</h1>
+
+<form method="post">
+	<label>Instagram Url</label>
+	@Html.TextBoxFor(x => x.InstaUrl, new { @class = "form-control" })
+	@Html.ValidationMessageFor(x => x.InstaUrl, "", new { @class = "text-danger" })
+	<br />
+	<label>Facebook Url</label>
+	@Html.TextBoxFor(x => x.FaceUrl, new { @class = "form-control" })
+	@Html.ValidationMessageFor(x => x.FaceUrl, "", new { @class = "text-danger" })
+	<br />
+	<label>Twitter Url</label>
+	@Html.TextBoxFor(x => x.TwUrl, new { @class = "form-control" })
+	@Html.ValidationMessageFor(x => x.TwUrl, "", new { @class = "text-danger" })
+	<br />
+	<label>Yotutube Url</label>
+	@Html.TextBoxFor(x => x.YoutubeUrl, new { @class = "form-control" })
+	@Html.ValidationMessageFor(x => x.YoutubeUrl, "", new { @class = "text-danger" })
+	<br />
+	<button class="btn btn-outline-warning" type="submit">Güncelle</button>
+</form>

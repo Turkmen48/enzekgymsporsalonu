@@ -1,0 +1,12 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_UserLayout.cshtml";
+}
+
+<h1>Hoşgeldin, @ViewData["Name"]</h1>
+
+
+
+<script src="https://cdn.logwork.com/widget/countdown.js"></script>
+<a href="https://logwork.com/countdown-yc57" class="countdown-timer" data-style="circles" data-timezone="Europe/Istanbul" data-language="tr" data-date="@ViewData["PlanEndDate"]">Üyeliğinin Bitimine Kalan</a>
