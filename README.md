@@ -12,7 +12,7 @@ Site Link:
 https://enzekgym.online/
 
 Admin Panel:
-https://enzekgym.online/Admin
+https://enzekgym.online/Admin kullanıcı adı ve şifre admin
 
 Kullanıcı Panel:
 https://enzekgym.online/User
