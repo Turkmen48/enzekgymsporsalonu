@@ -1,0 +1,19 @@
+﻿@model SiteInfo
+@{
+    ViewData["Title"] = "EditSiteName";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<h1>Site Adını Düzenle</h1>
+
+
+
+
+
+<form method="post">
+	<label>Site Adı</label>
+	@Html.TextBoxFor(x => x.SiteName, new { @class = "form-control" })
+	<br />
+	<button class="btn btn-outline-warning" type="submit">Güncelle</button>
+</form>
+

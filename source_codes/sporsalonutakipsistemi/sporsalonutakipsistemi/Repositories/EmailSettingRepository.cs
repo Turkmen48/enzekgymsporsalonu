@@ -3,12 +3,12 @@ using System.Linq;
 
 namespace sporsalonutakipsistemi.Repositories
 {
-    public class SiteInfoRepository : GenericRepository<SiteInfo>
+    public class EmailSettingRepository : GenericRepository<EmailSetting>
     {
         Context context = new Context();
-        public SiteInfo GetFirst()
+        public EmailSetting GetFirst()
         {
-            return context.SiteInfos.FirstOrDefault();
+            return context.EmailSettings.FirstOrDefault();
         }
     }
 }

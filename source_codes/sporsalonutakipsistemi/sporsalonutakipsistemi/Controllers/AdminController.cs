@@ -54,9 +54,23 @@ namespace sporsalonutakipsistemi.Controllers
             return View();
         }
 
+        public IActionResult EditSiteName()
+        {
+            var deger = siteInfoRepository.GetFirst();
+            return View(deger);
+        }
+
+        [HttpPost]
+        public IActionResult EditSiteName(SiteInfo siteInfo)
+        {
+            var deger = siteInfoRepository.GetFirst();
+            deger.SiteName = siteInfo.SiteName;
+            siteInfoRepository.TUpdate(deger);
+            return View(deger);
+        }
         public IActionResult EditLogo()
         {
-            var deger = siteInfoRepository.TGet(1);
+            var deger = siteInfoRepository.GetFirst();
             return View(deger);
         }
 

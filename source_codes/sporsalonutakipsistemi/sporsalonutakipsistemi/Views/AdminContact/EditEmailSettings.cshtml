@@ -1,0 +1,35 @@
+﻿@model EmailSetting
+@{
+    ViewData["Title"] = "EditEmailSettings";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<h1>Email Ayarları</h1>
+@if (TempData["Message"] != null)
+{
+    <div class="alert alert-success alert-dismissible fade show" role="alert">
+        @TempData["Message"]
+        <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+        </button>
+    </div>
+}
+
+<form method="post">
+    <label>Id:</label>
+    <input class="form-control" type="text" asp-for="Id" readonly="true" />
+    <br />
+    <label>Email:</label>
+    <input class="form-control" type="text" asp-for="Email"/>
+    <br />
+    <label>Smtp Adresi:</label>
+    <input class="form-control" type="text" asp-for="SmtpAddress" />
+    <br />
+    <label>Port:</label>
+    <input class="form-control" type="number" asp-for="Port" />
+    <br />
+    <label>Şifre:</label>
+    <input class="form-control" type="text" asp-for="Password" />
+    <br />
+    <button class="btn btn-outline-success">Gönder</button>
+</form>

@@ -297,3 +297,7 @@ C:\Users\Turkmen\source\repos\sporsalonutakipsistemi\sporsalonutakipsistemi\obj\
 C:\Users\Turkmen\source\repos\sporsalonutakipsistemi\sporsalonutakipsistemi\bin\Debug\net6.0\JetBrains.Annotations.dll
 C:\Users\Turkmen\source\repos\sporsalonutakipsistemi\sporsalonutakipsistemi\bin\Debug\net6.0\X.PagedList.dll
 C:\Users\Turkmen\source\repos\sporsalonutakipsistemi\sporsalonutakipsistemi\bin\Debug\net6.0\X.PagedList.Mvc.Core.dll
+C:\Users\Turkmen\source\repos\sporsalonutakipsistemi\sporsalonutakipsistemi\bin\Debug\net6.0\MailKit.dll
+C:\Users\Turkmen\source\repos\sporsalonutakipsistemi\sporsalonutakipsistemi\bin\Debug\net6.0\MimeKit.dll
+C:\Users\Turkmen\source\repos\sporsalonutakipsistemi\sporsalonutakipsistemi\bin\Debug\net6.0\NETCore.MailKit.dll
+C:\Users\Turkmen\source\repos\sporsalonutakipsistemi\sporsalonutakipsistemi\bin\Debug\net6.0\BouncyCastle.Crypto.dll

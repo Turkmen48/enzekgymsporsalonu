@@ -1,0 +1,26 @@
+﻿@model Contact
+@{
+    ViewData["Title"] = "Reply";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<h1>Yanıtla</h1>
+@if (TempData["Message"] != null)
+{
+    <div class="alert alert-warning alert-dismissible fade show" role="alert">
+        @TempData["Message"]
+        <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+        </button>
+    </div>
+}
+<form class="form-group" method="post">
+    <label>Kime:</label>
+    <input class="form-control" type="text" asp-for="Email" readonly="true" />
+    <br />
+    <label>Yanıt:</label>
+    <textarea class="form-control" name="message"></textarea>
+    <br />
+    <button class="btn btn-outline-success">Gönder</button>
+</form>
+
