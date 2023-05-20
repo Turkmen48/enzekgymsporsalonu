@@ -2,8 +2,7 @@
 # Enzek GYM Spor Salonu Takip Sistemi
 
 .net Core 6.0 ve MSSQL tabanlı bir spor salonu takip sistemidir. Hem müşterileriniiz için şirket sitesi olarak kullanabilirsiniz hem de admin
-panel sayesinde kullanıcı ekleme, silme, güncelleme, plan ekleme, üyelik uzatma, gelir-gider ekleme, dinamik olarak site güncelleme ve diğer
-başka türlü spor salonlarının ihtiyacı olan işlemler dahildir. Ayrıca kullanıcılarınız için üyelik bilgilerini ve üyelik süresini responsive
+panel sayesinde kullanıcı ekleme, silme, güncelleme, plan ekleme, üyelik uzatma, gelir-gider ekleme, dinamik olarak site güncelleme, kullanıcılara email gönderme ve diğer başka türlü spor salonlarının ihtiyacı olan işlemler dahildir. Ayrıca kullanıcılarınız için üyelik bilgilerini ve üyelik süresini responsive
 bir şekilde gösteren bir kullanıcı paneli de vardır. Demo olarak aşağıdaki siteyi deneyebilirsiniz.
 
 E-mail: enesusta6638@gmail.com
