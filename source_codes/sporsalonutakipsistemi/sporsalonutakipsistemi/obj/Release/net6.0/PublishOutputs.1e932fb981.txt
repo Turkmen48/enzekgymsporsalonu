@@ -13,6 +13,7 @@ C:\Users\Turkmen\source\repos\sporsalonutakipsistemi\sporsalonutakipsistemi\obj\
 C:\Users\Turkmen\source\repos\sporsalonutakipsistemi\sporsalonutakipsistemi\obj\Release\net6.0\PubTmp\Out\Humanizer.dll
 C:\Users\Turkmen\source\repos\sporsalonutakipsistemi\sporsalonutakipsistemi\obj\Release\net6.0\PubTmp\Out\Irony.dll
 C:\Users\Turkmen\source\repos\sporsalonutakipsistemi\sporsalonutakipsistemi\obj\Release\net6.0\PubTmp\Out\JetBrains.Annotations.dll
+C:\Users\Turkmen\source\repos\sporsalonutakipsistemi\sporsalonutakipsistemi\obj\Release\net6.0\PubTmp\Out\MailKit.dll
 C:\Users\Turkmen\source\repos\sporsalonutakipsistemi\sporsalonutakipsistemi\obj\Release\net6.0\PubTmp\Out\MessagePack.dll
 C:\Users\Turkmen\source\repos\sporsalonutakipsistemi\sporsalonutakipsistemi\obj\Release\net6.0\PubTmp\Out\MessagePack.Annotations.dll
 C:\Users\Turkmen\source\repos\sporsalonutakipsistemi\sporsalonutakipsistemi\obj\Release\net6.0\PubTmp\Out\Microsoft.AspNetCore.Razor.Language.dll
@@ -68,6 +69,8 @@ C:\Users\Turkmen\source\repos\sporsalonutakipsistemi\sporsalonutakipsistemi\obj\
 C:\Users\Turkmen\source\repos\sporsalonutakipsistemi\sporsalonutakipsistemi\obj\Release\net6.0\PubTmp\Out\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
 C:\Users\Turkmen\source\repos\sporsalonutakipsistemi\sporsalonutakipsistemi\obj\Release\net6.0\PubTmp\Out\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
 C:\Users\Turkmen\source\repos\sporsalonutakipsistemi\sporsalonutakipsistemi\obj\Release\net6.0\PubTmp\Out\Microsoft.Win32.SystemEvents.dll
+C:\Users\Turkmen\source\repos\sporsalonutakipsistemi\sporsalonutakipsistemi\obj\Release\net6.0\PubTmp\Out\MimeKit.dll
+C:\Users\Turkmen\source\repos\sporsalonutakipsistemi\sporsalonutakipsistemi\obj\Release\net6.0\PubTmp\Out\NETCore.MailKit.dll
 C:\Users\Turkmen\source\repos\sporsalonutakipsistemi\sporsalonutakipsistemi\obj\Release\net6.0\PubTmp\Out\Newtonsoft.Json.dll
 C:\Users\Turkmen\source\repos\sporsalonutakipsistemi\sporsalonutakipsistemi\obj\Release\net6.0\PubTmp\Out\NuGet.Common.dll
 C:\Users\Turkmen\source\repos\sporsalonutakipsistemi\sporsalonutakipsistemi\obj\Release\net6.0\PubTmp\Out\NuGet.Configuration.dll
@@ -78,6 +81,7 @@ C:\Users\Turkmen\source\repos\sporsalonutakipsistemi\sporsalonutakipsistemi\obj\
 C:\Users\Turkmen\source\repos\sporsalonutakipsistemi\sporsalonutakipsistemi\obj\Release\net6.0\PubTmp\Out\NuGet.ProjectModel.dll
 C:\Users\Turkmen\source\repos\sporsalonutakipsistemi\sporsalonutakipsistemi\obj\Release\net6.0\PubTmp\Out\NuGet.Protocol.dll
 C:\Users\Turkmen\source\repos\sporsalonutakipsistemi\sporsalonutakipsistemi\obj\Release\net6.0\PubTmp\Out\NuGet.Versioning.dll
+C:\Users\Turkmen\source\repos\sporsalonutakipsistemi\sporsalonutakipsistemi\obj\Release\net6.0\PubTmp\Out\BouncyCastle.Crypto.dll
 C:\Users\Turkmen\source\repos\sporsalonutakipsistemi\sporsalonutakipsistemi\obj\Release\net6.0\PubTmp\Out\SixLabors.Fonts.dll
 C:\Users\Turkmen\source\repos\sporsalonutakipsistemi\sporsalonutakipsistemi\obj\Release\net6.0\PubTmp\Out\System.Composition.AttributedModel.dll
 C:\Users\Turkmen\source\repos\sporsalonutakipsistemi\sporsalonutakipsistemi\obj\Release\net6.0\PubTmp\Out\System.Composition.Convention.dll

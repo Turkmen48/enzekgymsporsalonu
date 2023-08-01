@@ -13,7 +13,8 @@
             <div class="col">
                 <div class="form-group">
                     <label for="exampleInputEmail1">TC Kimlik No</label>
-                    @Html.TextBoxFor(x=>x.Tc,"",new{@type="number",@class="form-control",@placeholder="TC Kimlik No Giriniz"})
+                    @Html.TextBoxFor(x=>x.Tc,"",new{@type="number",@class="form-control",@placeholder="TC Kimlik No Giriniz", @oninput = "javascript: if (this.value.length > 11) this.value = this.value.slice(0, 11);" })
+                    
                     @Html.ValidationMessageFor(x=>x.Tc, "", new {@style="color:red"})
                     
                 </div>

@@ -47,7 +47,7 @@
                             <li>Okuma Süresi: @b.ReadTime dk</li>
                         </ul>
                         <p>
-                                @b.Content.Substring(0,250)
+                                @Html.Raw(@b.Content.Substring(0,250))
                         </p>
                     </div>
                 </div>

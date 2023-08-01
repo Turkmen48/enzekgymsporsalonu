@@ -3,7 +3,9 @@
     ViewData["Title"] = "Reply";
     Layout = "~/Views/Shared/_AdminLayout.cshtml";
 }
-
+@section Header{
+    <link href="https://cdn.jsdelivr.net/npm/summernote@0.8.18/dist/summernote.min.css" rel="stylesheet">
+}
 <h1>Yanıtla</h1>
 @if (TempData["Message"] != null)
 {
@@ -19,8 +21,16 @@
     <input class="form-control" type="text" asp-for="Email" readonly="true" />
     <br />
     <label>Yanıt:</label>
-    <textarea class="form-control" name="message"></textarea>
+    <textarea class="form-control" id="summernote" name="message"></textarea>
     <br />
     <button class="btn btn-outline-success">Gönder</button>
 </form>
 
+@section Scripts{
+    <script src="https://cdn.jsdelivr.net/npm/summernote@0.8.18/dist/summernote.min.js"></script>
+    <script>
+    $(document).ready(function() {
+  $('#summernote').summernote();
+});
+    </script>
+}

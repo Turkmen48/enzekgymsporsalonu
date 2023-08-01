@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "2GDw6pggIwr984nQ1a8b1cZVT3s8lGQHl5lY8ZWfgE4=",
+  "Hash": "TkrZM2FIeK0CLGaV9MZ2FHPaVd1J5nk2HIzQHlH5kpc=",
   "Source": "sporsalonutakipsistemi",
   "BasePath": "_content/sporsalonutakipsistemi",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "sporsalonutakipsistemi\\wwwroot",
       "Source": "sporsalonutakipsistemi",
-      "ContentRoot": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
       "BasePath": "_content/sporsalonutakipsistemi",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\css\\login\\script.js",
+      "Identity": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\css\\login\\script.js",
       "SourceId": "sporsalonutakipsistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
       "BasePath": "_content/sporsalonutakipsistemi",
       "RelativePath": "css/login/script.js",
       "AssetKind": "All",
@@ -34,10 +34,10 @@
       "OriginalItemSpec": "wwwroot\\css\\login\\script.js"
     },
     {
-      "Identity": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\css\\login\\style.css",
+      "Identity": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\css\\login\\style.css",
       "SourceId": "sporsalonutakipsistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
       "BasePath": "_content/sporsalonutakipsistemi",
       "RelativePath": "css/login/style.css",
       "AssetKind": "All",
@@ -51,10 +51,10 @@
       "OriginalItemSpec": "wwwroot\\css\\login\\style.css"
     },
     {
-      "Identity": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\css\\site.css",
       "SourceId": "sporsalonutakipsistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
       "BasePath": "_content/sporsalonutakipsistemi",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\favicon.ico",
       "SourceId": "sporsalonutakipsistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
       "BasePath": "_content/sporsalonutakipsistemi",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\gymlife\\css\\barfiller.css",
+      "Identity": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\gymlife\\css\\barfiller.css",
       "SourceId": "sporsalonutakipsistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
       "BasePath": "_content/sporsalonutakipsistemi",
       "RelativePath": "gymlife/css/barfiller.css",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\gymlife\\css\\barfiller.css"
     },
     {
-      "Identity": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\gymlife\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\gymlife\\css\\bootstrap.min.css",
       "SourceId": "sporsalonutakipsistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
       "BasePath": "_content/sporsalonutakipsistemi",
       "RelativePath": "gymlife/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\gymlife\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\gymlife\\css\\flaticon.css",
+      "Identity": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\gymlife\\css\\flaticon.css",
       "SourceId": "sporsalonutakipsistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
       "BasePath": "_content/sporsalonutakipsistemi",
       "RelativePath": "gymlife/css/flaticon.css",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\gymlife\\css\\flaticon.css"
     },
     {
-      "Identity": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\gymlife\\css\\font-awesome.min.css",
+      "Identity": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\gymlife\\css\\font-awesome.min.css",
       "SourceId": "sporsalonutakipsistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
       "BasePath": "_content/sporsalonutakipsistemi",
       "RelativePath": "gymlife/css/font-awesome.min.css",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\gymlife\\css\\font-awesome.min.css"
     },
     {
-      "Identity": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\gymlife\\css\\magnific-popup.css",
+      "Identity": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\gymlife\\css\\magnific-popup.css",
       "SourceId": "sporsalonutakipsistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
       "BasePath": "_content/sporsalonutakipsistemi",
       "RelativePath": "gymlife/css/magnific-popup.css",
       "AssetKind": "All",
@@ -170,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\gymlife\\css\\magnific-popup.css"
     },
     {
-      "Identity": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\gymlife\\css\\owl.carousel.min.css",
+      "Identity": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\gymlife\\css\\owl.carousel.min.css",
       "SourceId": "sporsalonutakipsistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
       "BasePath": "_content/sporsalonutakipsistemi",
       "RelativePath": "gymlife/css/owl.carousel.min.css",
       "AssetKind": "All",
@@ -187,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\gymlife\\css\\owl.carousel.min.css"
     },
     {
-      "Identity": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\gymlife\\css\\slicknav.min.css",
+      "Identity": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\gymlife\\css\\slicknav.min.css",
       "SourceId": "sporsalonutakipsistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
       "BasePath": "_content/sporsalonutakipsistemi",
       "RelativePath": "gymlife/css/slicknav.min.css",
       "AssetKind": "All",
@@ -204,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\gymlife\\css\\slicknav.min.css"
     },
     {
-      "Identity": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\gymlife\\css\\style.css",
+      "Identity": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\gymlife\\css\\style.css",
       "SourceId": "sporsalonutakipsistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
       "BasePath": "_content/sporsalonutakipsistemi",
       "RelativePath": "gymlife/css/style.css",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\gymlife\\css\\style.css"
     },
     {
-      "Identity": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\gymlife\\fonts\\Flaticon.eot",
+      "Identity": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\gymlife\\fonts\\Flaticon.eot",
       "SourceId": "sporsalonutakipsistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
       "BasePath": "_content/sporsalonutakipsistemi",
       "RelativePath": "gymlife/fonts/Flaticon.eot",
       "AssetKind": "All",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\gymlife\\fonts\\Flaticon.eot"
     },
     {
-      "Identity": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\gymlife\\fonts\\Flaticon.svg",
+      "Identity": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\gymlife\\fonts\\Flaticon.svg",
       "SourceId": "sporsalonutakipsistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
       "BasePath": "_content/sporsalonutakipsistemi",
       "RelativePath": "gymlife/fonts/Flaticon.svg",
       "AssetKind": "All",
@@ -255,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\gymlife\\fonts\\Flaticon.svg"
     },
     {
-      "Identity": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\gymlife\\fonts\\Flaticon.ttf",
+      "Identity": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\gymlife\\fonts\\Flaticon.ttf",
       "SourceId": "sporsalonutakipsistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
       "BasePath": "_content/sporsalonutakipsistemi",
       "RelativePath": "gymlife/fonts/Flaticon.ttf",
       "AssetKind": "All",
@@ -272,10 +272,10 @@
       "OriginalItemSpec": "wwwroot\\gymlife\\fonts\\Flaticon.ttf"
     },
     {
-      "Identity": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\gymlife\\fonts\\Flaticon.woff",
+      "Identity": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\gymlife\\fonts\\Flaticon.woff",
       "SourceId": "sporsalonutakipsistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
       "BasePath": "_content/sporsalonutakipsistemi",
       "RelativePath": "gymlife/fonts/Flaticon.woff",
       "AssetKind": "All",
@@ -289,10 +289,10 @@
       "OriginalItemSpec": "wwwroot\\gymlife\\fonts\\Flaticon.woff"
     },
     {
-      "Identity": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\gymlife\\fonts\\Flaticon.woff2",
+      "Identity": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\gymlife\\fonts\\Flaticon.woff2",
       "SourceId": "sporsalonutakipsistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
       "BasePath": "_content/sporsalonutakipsistemi",
       "RelativePath": "gymlife/fonts/Flaticon.woff2",
       "AssetKind": "All",
@@ -306,10 +306,10 @@
       "OriginalItemSpec": "wwwroot\\gymlife\\fonts\\Flaticon.woff2"
     },
     {
-      "Identity": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\gymlife\\fonts\\FontAwesome.otf",
+      "Identity": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\gymlife\\fonts\\FontAwesome.otf",
       "SourceId": "sporsalonutakipsistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
       "BasePath": "_content/sporsalonutakipsistemi",
       "RelativePath": "gymlife/fonts/FontAwesome.otf",
       "AssetKind": "All",
@@ -323,10 +323,10 @@
       "OriginalItemSpec": "wwwroot\\gymlife\\fonts\\FontAwesome.otf"
     },
     {
-      "Identity": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\gymlife\\fonts\\fontawesome-webfont.eot",
+      "Identity": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\gymlife\\fonts\\fontawesome-webfont.eot",
       "SourceId": "sporsalonutakipsistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
       "BasePath": "_content/sporsalonutakipsistemi",
       "RelativePath": "gymlife/fonts/fontawesome-webfont.eot",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\gymlife\\fonts\\fontawesome-webfont.eot"
     },
     {
-      "Identity": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\gymlife\\fonts\\fontawesome-webfont.svg",
+      "Identity": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\gymlife\\fonts\\fontawesome-webfont.svg",
       "SourceId": "sporsalonutakipsistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
       "BasePath": "_content/sporsalonutakipsistemi",
       "RelativePath": "gymlife/fonts/fontawesome-webfont.svg",
       "AssetKind": "All",
@@ -357,10 +357,10 @@
       "OriginalItemSpec": "wwwroot\\gymlife\\fonts\\fontawesome-webfont.svg"
     },
     {
-      "Identity": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\gymlife\\fonts\\fontawesome-webfont.ttf",
+      "Identity": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\gymlife\\fonts\\fontawesome-webfont.ttf",
       "SourceId": "sporsalonutakipsistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
       "BasePath": "_content/sporsalonutakipsistemi",
       "RelativePath": "gymlife/fonts/fontawesome-webfont.ttf",
       "AssetKind": "All",
@@ -374,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\gymlife\\fonts\\fontawesome-webfont.ttf"
     },
     {
-      "Identity": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\gymlife\\fonts\\fontawesome-webfont.woff",
+      "Identity": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\gymlife\\fonts\\fontawesome-webfont.woff",
       "SourceId": "sporsalonutakipsistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
       "BasePath": "_content/sporsalonutakipsistemi",
       "RelativePath": "gymlife/fonts/fontawesome-webfont.woff",
       "AssetKind": "All",
@@ -391,10 +391,10 @@
       "OriginalItemSpec": "wwwroot\\gymlife\\fonts\\fontawesome-webfont.woff"
     },
     {
-      "Identity": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\gymlife\\fonts\\fontawesome-webfont.woff2",
+      "Identity": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\gymlife\\fonts\\fontawesome-webfont.woff2",
       "SourceId": "sporsalonutakipsistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
       "BasePath": "_content/sporsalonutakipsistemi",
       "RelativePath": "gymlife/fonts/fontawesome-webfont.woff2",
       "AssetKind": "All",
@@ -408,10 +408,10 @@
       "OriginalItemSpec": "wwwroot\\gymlife\\fonts\\fontawesome-webfont.woff2"
     },
     {
-      "Identity": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\gymlife\\img\\about-us.jpg",
+      "Identity": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\gymlife\\img\\about-us.jpg",
       "SourceId": "sporsalonutakipsistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
       "BasePath": "_content/sporsalonutakipsistemi",
       "RelativePath": "gymlife/img/about-us.jpg",
       "AssetKind": "All",
@@ -425,10 +425,10 @@
       "OriginalItemSpec": "wwwroot\\gymlife\\img\\about-us.jpg"
     },
     {
-      "Identity": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\gymlife\\img\\banner-bg.jpg",
+      "Identity": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\gymlife\\img\\banner-bg.jpg",
       "SourceId": "sporsalonutakipsistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
       "BasePath": "_content/sporsalonutakipsistemi",
       "RelativePath": "gymlife/img/banner-bg.jpg",
       "AssetKind": "All",
@@ -442,10 +442,10 @@
       "OriginalItemSpec": "wwwroot\\gymlife\\img\\banner-bg.jpg"
     },
     {
-      "Identity": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\gymlife\\img\\blog\\blog-1.jpg",
+      "Identity": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\gymlife\\img\\blog\\blog-1.jpg",
       "SourceId": "sporsalonutakipsistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
       "BasePath": "_content/sporsalonutakipsistemi",
       "RelativePath": "gymlife/img/blog/blog-1.jpg",
       "AssetKind": "All",
@@ -459,10 +459,10 @@
       "OriginalItemSpec": "wwwroot\\gymlife\\img\\blog\\blog-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\gymlife\\img\\blog\\blog-2.jpg",
+      "Identity": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\gymlife\\img\\blog\\blog-2.jpg",
       "SourceId": "sporsalonutakipsistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
       "BasePath": "_content/sporsalonutakipsistemi",
       "RelativePath": "gymlife/img/blog/blog-2.jpg",
       "AssetKind": "All",
@@ -476,10 +476,10 @@
       "OriginalItemSpec": "wwwroot\\gymlife\\img\\blog\\blog-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\gymlife\\img\\blog\\blog-3.jpg",
+      "Identity": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\gymlife\\img\\blog\\blog-3.jpg",
       "SourceId": "sporsalonutakipsistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
       "BasePath": "_content/sporsalonutakipsistemi",
       "RelativePath": "gymlife/img/blog/blog-3.jpg",
       "AssetKind": "All",
@@ -493,10 +493,10 @@
       "OriginalItemSpec": "wwwroot\\gymlife\\img\\blog\\blog-3.jpg"
     },
     {
-      "Identity": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\gymlife\\img\\blog\\blog-4.jpg",
+      "Identity": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\gymlife\\img\\blog\\blog-4.jpg",
       "SourceId": "sporsalonutakipsistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
       "BasePath": "_content/sporsalonutakipsistemi",
       "RelativePath": "gymlife/img/blog/blog-4.jpg",
       "AssetKind": "All",
@@ -510,10 +510,10 @@
       "OriginalItemSpec": "wwwroot\\gymlife\\img\\blog\\blog-4.jpg"
     },
     {
-      "Identity": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\gymlife\\img\\blog\\blog-5.jpg",
+      "Identity": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\gymlife\\img\\blog\\blog-5.jpg",
       "SourceId": "sporsalonutakipsistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
       "BasePath": "_content/sporsalonutakipsistemi",
       "RelativePath": "gymlife/img/blog/blog-5.jpg",
       "AssetKind": "All",
@@ -527,10 +527,10 @@
       "OriginalItemSpec": "wwwroot\\gymlife\\img\\blog\\blog-5.jpg"
     },
     {
-      "Identity": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\gymlife\\img\\blog\\details\\blog-profile.jpg",
+      "Identity": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\gymlife\\img\\blog\\details\\blog-profile.jpg",
       "SourceId": "sporsalonutakipsistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
       "BasePath": "_content/sporsalonutakipsistemi",
       "RelativePath": "gymlife/img/blog/details/blog-profile.jpg",
       "AssetKind": "All",
@@ -544,10 +544,10 @@
       "OriginalItemSpec": "wwwroot\\gymlife\\img\\blog\\details\\blog-profile.jpg"
     },
     {
-      "Identity": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\gymlife\\img\\blog\\details\\comment-1.jpg",
+      "Identity": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\gymlife\\img\\blog\\details\\comment-1.jpg",
       "SourceId": "sporsalonutakipsistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
       "BasePath": "_content/sporsalonutakipsistemi",
       "RelativePath": "gymlife/img/blog/details/comment-1.jpg",
       "AssetKind": "All",
@@ -561,10 +561,10 @@
       "OriginalItemSpec": "wwwroot\\gymlife\\img\\blog\\details\\comment-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\gymlife\\img\\blog\\details\\comment-2.jpg",
+      "Identity": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\gymlife\\img\\blog\\details\\comment-2.jpg",
       "SourceId": "sporsalonutakipsistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
       "BasePath": "_content/sporsalonutakipsistemi",
       "RelativePath": "gymlife/img/blog/details/comment-2.jpg",
       "AssetKind": "All",
@@ -578,10 +578,10 @@
       "OriginalItemSpec": "wwwroot\\gymlife\\img\\blog\\details\\comment-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\gymlife\\img\\blog\\details\\comment-3.jpg",
+      "Identity": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\gymlife\\img\\blog\\details\\comment-3.jpg",
       "SourceId": "sporsalonutakipsistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
       "BasePath": "_content/sporsalonutakipsistemi",
       "RelativePath": "gymlife/img/blog/details/comment-3.jpg",
       "AssetKind": "All",
@@ -595,10 +595,10 @@
       "OriginalItemSpec": "wwwroot\\gymlife\\img\\blog\\details\\comment-3.jpg"
     },
     {
-      "Identity": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\gymlife\\img\\blog\\details\\details-1.jpg",
+      "Identity": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\gymlife\\img\\blog\\details\\details-1.jpg",
       "SourceId": "sporsalonutakipsistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
       "BasePath": "_content/sporsalonutakipsistemi",
       "RelativePath": "gymlife/img/blog/details/details-1.jpg",
       "AssetKind": "All",
@@ -612,10 +612,10 @@
       "OriginalItemSpec": "wwwroot\\gymlife\\img\\blog\\details\\details-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\gymlife\\img\\blog\\details\\details-2.jpg",
+      "Identity": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\gymlife\\img\\blog\\details\\details-2.jpg",
       "SourceId": "sporsalonutakipsistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
       "BasePath": "_content/sporsalonutakipsistemi",
       "RelativePath": "gymlife/img/blog/details/details-2.jpg",
       "AssetKind": "All",
@@ -629,10 +629,10 @@
       "OriginalItemSpec": "wwwroot\\gymlife\\img\\blog\\details\\details-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\gymlife\\img\\blog\\details\\details-hero.jpg",
+      "Identity": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\gymlife\\img\\blog\\details\\details-hero.jpg",
       "SourceId": "sporsalonutakipsistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
       "BasePath": "_content/sporsalonutakipsistemi",
       "RelativePath": "gymlife/img/blog/details/details-hero.jpg",
       "AssetKind": "All",
@@ -646,10 +646,10 @@
       "OriginalItemSpec": "wwwroot\\gymlife\\img\\blog\\details\\details-hero.jpg"
     },
     {
-      "Identity": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\gymlife\\img\\blog\\details\\quote-left.png",
+      "Identity": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\gymlife\\img\\blog\\details\\quote-left.png",
       "SourceId": "sporsalonutakipsistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
       "BasePath": "_content/sporsalonutakipsistemi",
       "RelativePath": "gymlife/img/blog/details/quote-left.png",
       "AssetKind": "All",
@@ -663,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\gymlife\\img\\blog\\details\\quote-left.png"
     },
     {
-      "Identity": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\gymlife\\img\\breadcrumb-bg.jpg",
+      "Identity": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\gymlife\\img\\breadcrumb-bg.jpg",
       "SourceId": "sporsalonutakipsistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
       "BasePath": "_content/sporsalonutakipsistemi",
       "RelativePath": "gymlife/img/breadcrumb-bg.jpg",
       "AssetKind": "All",
@@ -680,10 +680,10 @@
       "OriginalItemSpec": "wwwroot\\gymlife\\img\\breadcrumb-bg.jpg"
     },
     {
-      "Identity": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\gymlife\\img\\classes\\class-1.jpg",
+      "Identity": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\gymlife\\img\\classes\\class-1.jpg",
       "SourceId": "sporsalonutakipsistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
       "BasePath": "_content/sporsalonutakipsistemi",
       "RelativePath": "gymlife/img/classes/class-1.jpg",
       "AssetKind": "All",
@@ -697,10 +697,10 @@
       "OriginalItemSpec": "wwwroot\\gymlife\\img\\classes\\class-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\gymlife\\img\\classes\\class-2.jpg",
+      "Identity": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\gymlife\\img\\classes\\class-2.jpg",
       "SourceId": "sporsalonutakipsistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
       "BasePath": "_content/sporsalonutakipsistemi",
       "RelativePath": "gymlife/img/classes/class-2.jpg",
       "AssetKind": "All",
@@ -714,10 +714,10 @@
       "OriginalItemSpec": "wwwroot\\gymlife\\img\\classes\\class-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\gymlife\\img\\classes\\class-3.jpg",
+      "Identity": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\gymlife\\img\\classes\\class-3.jpg",
       "SourceId": "sporsalonutakipsistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
       "BasePath": "_content/sporsalonutakipsistemi",
       "RelativePath": "gymlife/img/classes/class-3.jpg",
       "AssetKind": "All",
@@ -731,10 +731,10 @@
       "OriginalItemSpec": "wwwroot\\gymlife\\img\\classes\\class-3.jpg"
     },
     {
-      "Identity": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\gymlife\\img\\classes\\class-4.jpg",
+      "Identity": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\gymlife\\img\\classes\\class-4.jpg",
       "SourceId": "sporsalonutakipsistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
       "BasePath": "_content/sporsalonutakipsistemi",
       "RelativePath": "gymlife/img/classes/class-4.jpg",
       "AssetKind": "All",
@@ -748,10 +748,10 @@
       "OriginalItemSpec": "wwwroot\\gymlife\\img\\classes\\class-4.jpg"
     },
     {
-      "Identity": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\gymlife\\img\\classes\\class-5.jpg",
+      "Identity": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\gymlife\\img\\classes\\class-5.jpg",
       "SourceId": "sporsalonutakipsistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
       "BasePath": "_content/sporsalonutakipsistemi",
       "RelativePath": "gymlife/img/classes/class-5.jpg",
       "AssetKind": "All",
@@ -765,10 +765,10 @@
       "OriginalItemSpec": "wwwroot\\gymlife\\img\\classes\\class-5.jpg"
     },
     {
-      "Identity": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\gymlife\\img\\classes\\class-details\\class-detailsl.jpg",
+      "Identity": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\gymlife\\img\\classes\\class-details\\class-detailsl.jpg",
       "SourceId": "sporsalonutakipsistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
       "BasePath": "_content/sporsalonutakipsistemi",
       "RelativePath": "gymlife/img/classes/class-details/class-detailsl.jpg",
       "AssetKind": "All",
@@ -782,10 +782,10 @@
       "OriginalItemSpec": "wwwroot\\gymlife\\img\\classes\\class-details\\class-detailsl.jpg"
     },
     {
-      "Identity": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\gymlife\\img\\classes\\class-details\\trainer-profile.jpg",
+      "Identity": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\gymlife\\img\\classes\\class-details\\trainer-profile.jpg",
       "SourceId": "sporsalonutakipsistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
       "BasePath": "_content/sporsalonutakipsistemi",
       "RelativePath": "gymlife/img/classes/class-details/trainer-profile.jpg",
       "AssetKind": "All",
@@ -799,10 +799,10 @@
       "OriginalItemSpec": "wwwroot\\gymlife\\img\\classes\\class-details\\trainer-profile.jpg"
     },
     {
-      "Identity": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\gymlife\\img\\gallery\\gallery-1.jpg",
+      "Identity": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\gymlife\\img\\gallery\\gallery-1.jpg",
       "SourceId": "sporsalonutakipsistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
       "BasePath": "_content/sporsalonutakipsistemi",
       "RelativePath": "gymlife/img/gallery/gallery-1.jpg",
       "AssetKind": "All",
@@ -816,10 +816,10 @@
       "OriginalItemSpec": "wwwroot\\gymlife\\img\\gallery\\gallery-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\gymlife\\img\\gallery\\gallery-2.jpg",
+      "Identity": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\gymlife\\img\\gallery\\gallery-2.jpg",
       "SourceId": "sporsalonutakipsistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
       "BasePath": "_content/sporsalonutakipsistemi",
       "RelativePath": "gymlife/img/gallery/gallery-2.jpg",
       "AssetKind": "All",
@@ -833,10 +833,10 @@
       "OriginalItemSpec": "wwwroot\\gymlife\\img\\gallery\\gallery-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\gymlife\\img\\gallery\\gallery-3.jpg",
+      "Identity": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\gymlife\\img\\gallery\\gallery-3.jpg",
       "SourceId": "sporsalonutakipsistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
       "BasePath": "_content/sporsalonutakipsistemi",
       "RelativePath": "gymlife/img/gallery/gallery-3.jpg",
       "AssetKind": "All",
@@ -850,10 +850,10 @@
       "OriginalItemSpec": "wwwroot\\gymlife\\img\\gallery\\gallery-3.jpg"
     },
     {
-      "Identity": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\gymlife\\img\\gallery\\gallery-4.jpg",
+      "Identity": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\gymlife\\img\\gallery\\gallery-4.jpg",
       "SourceId": "sporsalonutakipsistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
       "BasePath": "_content/sporsalonutakipsistemi",
       "RelativePath": "gymlife/img/gallery/gallery-4.jpg",
       "AssetKind": "All",
@@ -867,10 +867,10 @@
       "OriginalItemSpec": "wwwroot\\gymlife\\img\\gallery\\gallery-4.jpg"
     },
     {
-      "Identity": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\gymlife\\img\\gallery\\gallery-5.jpg",
+      "Identity": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\gymlife\\img\\gallery\\gallery-5.jpg",
       "SourceId": "sporsalonutakipsistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
       "BasePath": "_content/sporsalonutakipsistemi",
       "RelativePath": "gymlife/img/gallery/gallery-5.jpg",
       "AssetKind": "All",
@@ -884,10 +884,10 @@
       "OriginalItemSpec": "wwwroot\\gymlife\\img\\gallery\\gallery-5.jpg"
     },
     {
-      "Identity": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\gymlife\\img\\gallery\\gallery-6.jpg",
+      "Identity": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\gymlife\\img\\gallery\\gallery-6.jpg",
       "SourceId": "sporsalonutakipsistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
       "BasePath": "_content/sporsalonutakipsistemi",
       "RelativePath": "gymlife/img/gallery/gallery-6.jpg",
       "AssetKind": "All",
@@ -901,10 +901,10 @@
       "OriginalItemSpec": "wwwroot\\gymlife\\img\\gallery\\gallery-6.jpg"
     },
     {
-      "Identity": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\gymlife\\img\\gallery\\gallery-7.jpg",
+      "Identity": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\gymlife\\img\\gallery\\gallery-7.jpg",
       "SourceId": "sporsalonutakipsistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
       "BasePath": "_content/sporsalonutakipsistemi",
       "RelativePath": "gymlife/img/gallery/gallery-7.jpg",
       "AssetKind": "All",
@@ -918,10 +918,10 @@
       "OriginalItemSpec": "wwwroot\\gymlife\\img\\gallery\\gallery-7.jpg"
     },
     {
-      "Identity": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\gymlife\\img\\gallery\\gallery-8.jpg",
+      "Identity": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\gymlife\\img\\gallery\\gallery-8.jpg",
       "SourceId": "sporsalonutakipsistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
       "BasePath": "_content/sporsalonutakipsistemi",
       "RelativePath": "gymlife/img/gallery/gallery-8.jpg",
       "AssetKind": "All",
@@ -935,10 +935,10 @@
       "OriginalItemSpec": "wwwroot\\gymlife\\img\\gallery\\gallery-8.jpg"
     },
     {
-      "Identity": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\gymlife\\img\\gallery\\gallery-9.jpg",
+      "Identity": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\gymlife\\img\\gallery\\gallery-9.jpg",
       "SourceId": "sporsalonutakipsistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
       "BasePath": "_content/sporsalonutakipsistemi",
       "RelativePath": "gymlife/img/gallery/gallery-9.jpg",
       "AssetKind": "All",
@@ -952,10 +952,10 @@
       "OriginalItemSpec": "wwwroot\\gymlife\\img\\gallery\\gallery-9.jpg"
     },
     {
-      "Identity": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\gymlife\\img\\hero\\hero-1.jpg",
+      "Identity": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\gymlife\\img\\hero\\hero-1.jpg",
       "SourceId": "sporsalonutakipsistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
       "BasePath": "_content/sporsalonutakipsistemi",
       "RelativePath": "gymlife/img/hero/hero-1.jpg",
       "AssetKind": "All",
@@ -969,10 +969,10 @@
       "OriginalItemSpec": "wwwroot\\gymlife\\img\\hero\\hero-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\gymlife\\img\\hero\\hero-2.jpg",
+      "Identity": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\gymlife\\img\\hero\\hero-2.jpg",
       "SourceId": "sporsalonutakipsistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
       "BasePath": "_content/sporsalonutakipsistemi",
       "RelativePath": "gymlife/img/hero/hero-2.jpg",
       "AssetKind": "All",
@@ -986,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\gymlife\\img\\hero\\hero-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\gymlife\\img\\letest-blog\\latest-1.jpg",
+      "Identity": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\gymlife\\img\\letest-blog\\latest-1.jpg",
       "SourceId": "sporsalonutakipsistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
       "BasePath": "_content/sporsalonutakipsistemi",
       "RelativePath": "gymlife/img/letest-blog/latest-1.jpg",
       "AssetKind": "All",
@@ -1003,10 +1003,10 @@
       "OriginalItemSpec": "wwwroot\\gymlife\\img\\letest-blog\\latest-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\gymlife\\img\\letest-blog\\latest-2.jpg",
+      "Identity": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\gymlife\\img\\letest-blog\\latest-2.jpg",
       "SourceId": "sporsalonutakipsistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
       "BasePath": "_content/sporsalonutakipsistemi",
       "RelativePath": "gymlife/img/letest-blog/latest-2.jpg",
       "AssetKind": "All",
@@ -1020,10 +1020,10 @@
       "OriginalItemSpec": "wwwroot\\gymlife\\img\\letest-blog\\latest-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\gymlife\\img\\letest-blog\\latest-3.jpg",
+      "Identity": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\gymlife\\img\\letest-blog\\latest-3.jpg",
       "SourceId": "sporsalonutakipsistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
       "BasePath": "_content/sporsalonutakipsistemi",
       "RelativePath": "gymlife/img/letest-blog/latest-3.jpg",
       "AssetKind": "All",
@@ -1037,10 +1037,10 @@
       "OriginalItemSpec": "wwwroot\\gymlife\\img\\letest-blog\\latest-3.jpg"
     },
     {
-      "Identity": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\gymlife\\img\\letest-blog\\latest-4.jpg",
+      "Identity": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\gymlife\\img\\letest-blog\\latest-4.jpg",
       "SourceId": "sporsalonutakipsistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
       "BasePath": "_content/sporsalonutakipsistemi",
       "RelativePath": "gymlife/img/letest-blog/latest-4.jpg",
       "AssetKind": "All",
@@ -1054,10 +1054,10 @@
       "OriginalItemSpec": "wwwroot\\gymlife\\img\\letest-blog\\latest-4.jpg"
     },
     {
-      "Identity": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\gymlife\\img\\letest-blog\\latest-5.jpg",
+      "Identity": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\gymlife\\img\\letest-blog\\latest-5.jpg",
       "SourceId": "sporsalonutakipsistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
       "BasePath": "_content/sporsalonutakipsistemi",
       "RelativePath": "gymlife/img/letest-blog/latest-5.jpg",
       "AssetKind": "All",
@@ -1071,10 +1071,10 @@
       "OriginalItemSpec": "wwwroot\\gymlife\\img\\letest-blog\\latest-5.jpg"
     },
     {
-      "Identity": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\gymlife\\img\\logo.png",
+      "Identity": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\gymlife\\img\\logo.png",
       "SourceId": "sporsalonutakipsistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
       "BasePath": "_content/sporsalonutakipsistemi",
       "RelativePath": "gymlife/img/logo.png",
       "AssetKind": "All",
@@ -1088,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\gymlife\\img\\logo.png"
     },
     {
-      "Identity": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\gymlife\\img\\services\\services-1.jpg",
+      "Identity": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\gymlife\\img\\services\\services-1.jpg",
       "SourceId": "sporsalonutakipsistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
       "BasePath": "_content/sporsalonutakipsistemi",
       "RelativePath": "gymlife/img/services/services-1.jpg",
       "AssetKind": "All",
@@ -1105,10 +1105,10 @@
       "OriginalItemSpec": "wwwroot\\gymlife\\img\\services\\services-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\gymlife\\img\\services\\services-2.jpg",
+      "Identity": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\gymlife\\img\\services\\services-2.jpg",
       "SourceId": "sporsalonutakipsistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
       "BasePath": "_content/sporsalonutakipsistemi",
       "RelativePath": "gymlife/img/services/services-2.jpg",
       "AssetKind": "All",
@@ -1122,10 +1122,10 @@
       "OriginalItemSpec": "wwwroot\\gymlife\\img\\services\\services-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\gymlife\\img\\services\\services-3.jpg",
+      "Identity": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\gymlife\\img\\services\\services-3.jpg",
       "SourceId": "sporsalonutakipsistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
       "BasePath": "_content/sporsalonutakipsistemi",
       "RelativePath": "gymlife/img/services/services-3.jpg",
       "AssetKind": "All",
@@ -1139,10 +1139,10 @@
       "OriginalItemSpec": "wwwroot\\gymlife\\img\\services\\services-3.jpg"
     },
     {
-      "Identity": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\gymlife\\img\\services\\services-4.jpg",
+      "Identity": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\gymlife\\img\\services\\services-4.jpg",
       "SourceId": "sporsalonutakipsistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
       "BasePath": "_content/sporsalonutakipsistemi",
       "RelativePath": "gymlife/img/services/services-4.jpg",
       "AssetKind": "All",
@@ -1156,10 +1156,10 @@
       "OriginalItemSpec": "wwwroot\\gymlife\\img\\services\\services-4.jpg"
     },
     {
-      "Identity": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\gymlife\\img\\sidebar-banner.jpg",
+      "Identity": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\gymlife\\img\\sidebar-banner.jpg",
       "SourceId": "sporsalonutakipsistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
       "BasePath": "_content/sporsalonutakipsistemi",
       "RelativePath": "gymlife/img/sidebar-banner.jpg",
       "AssetKind": "All",
@@ -1173,10 +1173,10 @@
       "OriginalItemSpec": "wwwroot\\gymlife\\img\\sidebar-banner.jpg"
     },
     {
-      "Identity": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\gymlife\\img\\team\\team-1.jpg",
+      "Identity": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\gymlife\\img\\team\\team-1.jpg",
       "SourceId": "sporsalonutakipsistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
       "BasePath": "_content/sporsalonutakipsistemi",
       "RelativePath": "gymlife/img/team/team-1.jpg",
       "AssetKind": "All",
@@ -1190,10 +1190,10 @@
       "OriginalItemSpec": "wwwroot\\gymlife\\img\\team\\team-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\gymlife\\img\\team\\team-2.jpg",
+      "Identity": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\gymlife\\img\\team\\team-2.jpg",
       "SourceId": "sporsalonutakipsistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
       "BasePath": "_content/sporsalonutakipsistemi",
       "RelativePath": "gymlife/img/team/team-2.jpg",
       "AssetKind": "All",
@@ -1207,10 +1207,10 @@
       "OriginalItemSpec": "wwwroot\\gymlife\\img\\team\\team-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\gymlife\\img\\team\\team-3.jpg",
+      "Identity": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\gymlife\\img\\team\\team-3.jpg",
       "SourceId": "sporsalonutakipsistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
       "BasePath": "_content/sporsalonutakipsistemi",
       "RelativePath": "gymlife/img/team/team-3.jpg",
       "AssetKind": "All",
@@ -1224,10 +1224,10 @@
       "OriginalItemSpec": "wwwroot\\gymlife\\img\\team\\team-3.jpg"
     },
     {
-      "Identity": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\gymlife\\img\\team\\team-4.jpg",
+      "Identity": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\gymlife\\img\\team\\team-4.jpg",
       "SourceId": "sporsalonutakipsistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
       "BasePath": "_content/sporsalonutakipsistemi",
       "RelativePath": "gymlife/img/team/team-4.jpg",
       "AssetKind": "All",
@@ -1241,10 +1241,10 @@
       "OriginalItemSpec": "wwwroot\\gymlife\\img\\team\\team-4.jpg"
     },
     {
-      "Identity": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\gymlife\\img\\team\\team-5.jpg",
+      "Identity": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\gymlife\\img\\team\\team-5.jpg",
       "SourceId": "sporsalonutakipsistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
       "BasePath": "_content/sporsalonutakipsistemi",
       "RelativePath": "gymlife/img/team/team-5.jpg",
       "AssetKind": "All",
@@ -1258,10 +1258,10 @@
       "OriginalItemSpec": "wwwroot\\gymlife\\img\\team\\team-5.jpg"
     },
     {
-      "Identity": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\gymlife\\img\\team\\team-6.jpg",
+      "Identity": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\gymlife\\img\\team\\team-6.jpg",
       "SourceId": "sporsalonutakipsistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
       "BasePath": "_content/sporsalonutakipsistemi",
       "RelativePath": "gymlife/img/team/team-6.jpg",
       "AssetKind": "All",
@@ -1275,10 +1275,10 @@
       "OriginalItemSpec": "wwwroot\\gymlife\\img\\team\\team-6.jpg"
     },
     {
-      "Identity": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\gymlife\\img\\testimonial\\testimonial-1.jpg",
+      "Identity": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\gymlife\\img\\testimonial\\testimonial-1.jpg",
       "SourceId": "sporsalonutakipsistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
       "BasePath": "_content/sporsalonutakipsistemi",
       "RelativePath": "gymlife/img/testimonial/testimonial-1.jpg",
       "AssetKind": "All",
@@ -1292,10 +1292,10 @@
       "OriginalItemSpec": "wwwroot\\gymlife\\img\\testimonial\\testimonial-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\gymlife\\img\\testimonial\\testimonial-2.jpg",
+      "Identity": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\gymlife\\img\\testimonial\\testimonial-2.jpg",
       "SourceId": "sporsalonutakipsistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
       "BasePath": "_content/sporsalonutakipsistemi",
       "RelativePath": "gymlife/img/testimonial/testimonial-2.jpg",
       "AssetKind": "All",
@@ -1309,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\gymlife\\img\\testimonial\\testimonial-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\gymlife\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\gymlife\\js\\bootstrap.min.js",
       "SourceId": "sporsalonutakipsistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
       "BasePath": "_content/sporsalonutakipsistemi",
       "RelativePath": "gymlife/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -1326,10 +1326,10 @@
       "OriginalItemSpec": "wwwroot\\gymlife\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\gymlife\\js\\jquery.barfiller.js",
+      "Identity": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\gymlife\\js\\jquery.barfiller.js",
       "SourceId": "sporsalonutakipsistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
       "BasePath": "_content/sporsalonutakipsistemi",
       "RelativePath": "gymlife/js/jquery.barfiller.js",
       "AssetKind": "All",
@@ -1343,10 +1343,10 @@
       "OriginalItemSpec": "wwwroot\\gymlife\\js\\jquery.barfiller.js"
     },
     {
-      "Identity": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\gymlife\\js\\jquery.magnific-popup.min.js",
+      "Identity": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\gymlife\\js\\jquery.magnific-popup.min.js",
       "SourceId": "sporsalonutakipsistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
       "BasePath": "_content/sporsalonutakipsistemi",
       "RelativePath": "gymlife/js/jquery.magnific-popup.min.js",
       "AssetKind": "All",
@@ -1360,10 +1360,10 @@
       "OriginalItemSpec": "wwwroot\\gymlife\\js\\jquery.magnific-popup.min.js"
     },
     {
-      "Identity": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\gymlife\\js\\jquery.slicknav.js",
+      "Identity": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\gymlife\\js\\jquery.slicknav.js",
       "SourceId": "sporsalonutakipsistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
       "BasePath": "_content/sporsalonutakipsistemi",
       "RelativePath": "gymlife/js/jquery.slicknav.js",
       "AssetKind": "All",
@@ -1377,10 +1377,10 @@
       "OriginalItemSpec": "wwwroot\\gymlife\\js\\jquery.slicknav.js"
     },
     {
-      "Identity": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\gymlife\\js\\jquery-3.3.1.min.js",
+      "Identity": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\gymlife\\js\\jquery-3.3.1.min.js",
       "SourceId": "sporsalonutakipsistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
       "BasePath": "_content/sporsalonutakipsistemi",
       "RelativePath": "gymlife/js/jquery-3.3.1.min.js",
       "AssetKind": "All",
@@ -1394,10 +1394,10 @@
       "OriginalItemSpec": "wwwroot\\gymlife\\js\\jquery-3.3.1.min.js"
     },
     {
-      "Identity": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\gymlife\\js\\main.js",
+      "Identity": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\gymlife\\js\\main.js",
       "SourceId": "sporsalonutakipsistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
       "BasePath": "_content/sporsalonutakipsistemi",
       "RelativePath": "gymlife/js/main.js",
       "AssetKind": "All",
@@ -1411,10 +1411,10 @@
       "OriginalItemSpec": "wwwroot\\gymlife\\js\\main.js"
     },
     {
-      "Identity": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\gymlife\\js\\masonry.pkgd.min.js",
+      "Identity": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\gymlife\\js\\masonry.pkgd.min.js",
       "SourceId": "sporsalonutakipsistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
       "BasePath": "_content/sporsalonutakipsistemi",
       "RelativePath": "gymlife/js/masonry.pkgd.min.js",
       "AssetKind": "All",
@@ -1428,10 +1428,10 @@
       "OriginalItemSpec": "wwwroot\\gymlife\\js\\masonry.pkgd.min.js"
     },
     {
-      "Identity": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\gymlife\\js\\owl.carousel.min.js",
+      "Identity": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\gymlife\\js\\owl.carousel.min.js",
       "SourceId": "sporsalonutakipsistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
       "BasePath": "_content/sporsalonutakipsistemi",
       "RelativePath": "gymlife/js/owl.carousel.min.js",
       "AssetKind": "All",
@@ -1445,10 +1445,10 @@
       "OriginalItemSpec": "wwwroot\\gymlife\\js\\owl.carousel.min.js"
     },
     {
-      "Identity": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\gymlife\\Source\\barfiller-master.zip",
+      "Identity": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\gymlife\\Source\\barfiller-master.zip",
       "SourceId": "sporsalonutakipsistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
       "BasePath": "_content/sporsalonutakipsistemi",
       "RelativePath": "gymlife/Source/barfiller-master.zip",
       "AssetKind": "All",
@@ -1462,10 +1462,10 @@
       "OriginalItemSpec": "wwwroot\\gymlife\\Source\\barfiller-master.zip"
     },
     {
-      "Identity": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\gymlife\\Source\\bootstrap-4.2.1-dist.zip",
+      "Identity": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\gymlife\\Source\\bootstrap-4.2.1-dist.zip",
       "SourceId": "sporsalonutakipsistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
       "BasePath": "_content/sporsalonutakipsistemi",
       "RelativePath": "gymlife/Source/bootstrap-4.2.1-dist.zip",
       "AssetKind": "All",
@@ -1479,10 +1479,10 @@
       "OriginalItemSpec": "wwwroot\\gymlife\\Source\\bootstrap-4.2.1-dist.zip"
     },
     {
-      "Identity": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\gymlife\\Source\\flaticon.zip",
+      "Identity": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\gymlife\\Source\\flaticon.zip",
       "SourceId": "sporsalonutakipsistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
       "BasePath": "_content/sporsalonutakipsistemi",
       "RelativePath": "gymlife/Source/flaticon.zip",
       "AssetKind": "All",
@@ -1496,10 +1496,10 @@
       "OriginalItemSpec": "wwwroot\\gymlife\\Source\\flaticon.zip"
     },
     {
-      "Identity": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\gymlife\\Source\\font-awesome-4.7.0.zip",
+      "Identity": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\gymlife\\Source\\font-awesome-4.7.0.zip",
       "SourceId": "sporsalonutakipsistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
       "BasePath": "_content/sporsalonutakipsistemi",
       "RelativePath": "gymlife/Source/font-awesome-4.7.0.zip",
       "AssetKind": "All",
@@ -1513,10 +1513,10 @@
       "OriginalItemSpec": "wwwroot\\gymlife\\Source\\font-awesome-4.7.0.zip"
     },
     {
-      "Identity": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\gymlife\\Source\\Magnific-Popup-master.zip",
+      "Identity": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\gymlife\\Source\\Magnific-Popup-master.zip",
       "SourceId": "sporsalonutakipsistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
       "BasePath": "_content/sporsalonutakipsistemi",
       "RelativePath": "gymlife/Source/Magnific-Popup-master.zip",
       "AssetKind": "All",
@@ -1530,10 +1530,10 @@
       "OriginalItemSpec": "wwwroot\\gymlife\\Source\\Magnific-Popup-master.zip"
     },
     {
-      "Identity": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\gymlife\\Source\\OwlCarousel2-2.3.4.zip",
+      "Identity": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\gymlife\\Source\\OwlCarousel2-2.3.4.zip",
       "SourceId": "sporsalonutakipsistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
       "BasePath": "_content/sporsalonutakipsistemi",
       "RelativePath": "gymlife/Source/OwlCarousel2-2.3.4.zip",
       "AssetKind": "All",
@@ -1547,10 +1547,10 @@
       "OriginalItemSpec": "wwwroot\\gymlife\\Source\\OwlCarousel2-2.3.4.zip"
     },
     {
-      "Identity": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\gymlife\\Source\\sass.zip",
+      "Identity": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\gymlife\\Source\\sass.zip",
       "SourceId": "sporsalonutakipsistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
       "BasePath": "_content/sporsalonutakipsistemi",
       "RelativePath": "gymlife/Source/sass.zip",
       "AssetKind": "All",
@@ -1564,10 +1564,10 @@
       "OriginalItemSpec": "wwwroot\\gymlife\\Source\\sass.zip"
     },
     {
-      "Identity": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\gymlife\\Source\\SlickNav-master.zip",
+      "Identity": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\gymlife\\Source\\SlickNav-master.zip",
       "SourceId": "sporsalonutakipsistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
       "BasePath": "_content/sporsalonutakipsistemi",
       "RelativePath": "gymlife/Source/SlickNav-master.zip",
       "AssetKind": "All",
@@ -1581,10 +1581,10 @@
       "OriginalItemSpec": "wwwroot\\gymlife\\Source\\SlickNav-master.zip"
     },
     {
-      "Identity": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\gymlife-master.zip",
+      "Identity": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\gymlife-master.zip",
       "SourceId": "sporsalonutakipsistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
       "BasePath": "_content/sporsalonutakipsistemi",
       "RelativePath": "gymlife-master.zip",
       "AssetKind": "All",
@@ -1598,10 +1598,10 @@
       "OriginalItemSpec": "wwwroot\\gymlife-master.zip"
     },
     {
-      "Identity": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\js\\site.js",
+      "Identity": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\js\\site.js",
       "SourceId": "sporsalonutakipsistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
       "BasePath": "_content/sporsalonutakipsistemi",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -1615,10 +1615,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "sporsalonutakipsistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
       "BasePath": "_content/sporsalonutakipsistemi",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -1632,10 +1632,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "sporsalonutakipsistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
       "BasePath": "_content/sporsalonutakipsistemi",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -1649,10 +1649,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "sporsalonutakipsistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
       "BasePath": "_content/sporsalonutakipsistemi",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -1666,10 +1666,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "sporsalonutakipsistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
       "BasePath": "_content/sporsalonutakipsistemi",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -1683,10 +1683,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "sporsalonutakipsistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
       "BasePath": "_content/sporsalonutakipsistemi",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -1700,10 +1700,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "sporsalonutakipsistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
       "BasePath": "_content/sporsalonutakipsistemi",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -1717,10 +1717,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "sporsalonutakipsistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
       "BasePath": "_content/sporsalonutakipsistemi",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -1734,10 +1734,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "sporsalonutakipsistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
       "BasePath": "_content/sporsalonutakipsistemi",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -1751,10 +1751,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "sporsalonutakipsistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
       "BasePath": "_content/sporsalonutakipsistemi",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -1768,10 +1768,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "sporsalonutakipsistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
       "BasePath": "_content/sporsalonutakipsistemi",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -1785,10 +1785,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "sporsalonutakipsistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
       "BasePath": "_content/sporsalonutakipsistemi",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -1802,10 +1802,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "sporsalonutakipsistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
       "BasePath": "_content/sporsalonutakipsistemi",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -1819,10 +1819,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "sporsalonutakipsistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
       "BasePath": "_content/sporsalonutakipsistemi",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -1836,10 +1836,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "sporsalonutakipsistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
       "BasePath": "_content/sporsalonutakipsistemi",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -1853,10 +1853,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "sporsalonutakipsistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
       "BasePath": "_content/sporsalonutakipsistemi",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -1870,10 +1870,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "sporsalonutakipsistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
       "BasePath": "_content/sporsalonutakipsistemi",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -1887,10 +1887,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "sporsalonutakipsistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
       "BasePath": "_content/sporsalonutakipsistemi",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -1904,10 +1904,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "sporsalonutakipsistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
       "BasePath": "_content/sporsalonutakipsistemi",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -1921,10 +1921,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "sporsalonutakipsistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
       "BasePath": "_content/sporsalonutakipsistemi",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -1938,10 +1938,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "sporsalonutakipsistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
       "BasePath": "_content/sporsalonutakipsistemi",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -1955,10 +1955,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "sporsalonutakipsistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
       "BasePath": "_content/sporsalonutakipsistemi",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -1972,10 +1972,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "sporsalonutakipsistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
       "BasePath": "_content/sporsalonutakipsistemi",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -1989,10 +1989,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "sporsalonutakipsistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
       "BasePath": "_content/sporsalonutakipsistemi",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -2006,10 +2006,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "sporsalonutakipsistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
       "BasePath": "_content/sporsalonutakipsistemi",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -2023,10 +2023,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "sporsalonutakipsistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
       "BasePath": "_content/sporsalonutakipsistemi",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -2040,10 +2040,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "sporsalonutakipsistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
       "BasePath": "_content/sporsalonutakipsistemi",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -2057,10 +2057,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "sporsalonutakipsistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
       "BasePath": "_content/sporsalonutakipsistemi",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -2074,10 +2074,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "sporsalonutakipsistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
       "BasePath": "_content/sporsalonutakipsistemi",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -2091,10 +2091,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "sporsalonutakipsistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
       "BasePath": "_content/sporsalonutakipsistemi",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -2108,10 +2108,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "sporsalonutakipsistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
       "BasePath": "_content/sporsalonutakipsistemi",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -2125,10 +2125,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "sporsalonutakipsistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
       "BasePath": "_content/sporsalonutakipsistemi",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -2142,10 +2142,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "sporsalonutakipsistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
       "BasePath": "_content/sporsalonutakipsistemi",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -2159,10 +2159,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "sporsalonutakipsistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
       "BasePath": "_content/sporsalonutakipsistemi",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -2176,10 +2176,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\panelcomponents\\css\\demo.css",
+      "Identity": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\panelcomponents\\css\\demo.css",
       "SourceId": "sporsalonutakipsistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
       "BasePath": "_content/sporsalonutakipsistemi",
       "RelativePath": "panelcomponents/css/demo.css",
       "AssetKind": "All",
@@ -2193,10 +2193,10 @@
       "OriginalItemSpec": "wwwroot\\panelcomponents\\css\\demo.css"
     },
     {
-      "Identity": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\panelcomponents\\css\\demo.min.css",
+      "Identity": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\panelcomponents\\css\\demo.min.css",
       "SourceId": "sporsalonutakipsistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
       "BasePath": "_content/sporsalonutakipsistemi",
       "RelativePath": "panelcomponents/css/demo.min.css",
       "AssetKind": "All",
@@ -2210,10 +2210,10 @@
       "OriginalItemSpec": "wwwroot\\panelcomponents\\css\\demo.min.css"
     },
     {
-      "Identity": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\panelcomponents\\css\\spur.css",
+      "Identity": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\panelcomponents\\css\\spur.css",
       "SourceId": "sporsalonutakipsistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
       "BasePath": "_content/sporsalonutakipsistemi",
       "RelativePath": "panelcomponents/css/spur.css",
       "AssetKind": "All",
@@ -2227,10 +2227,10 @@
       "OriginalItemSpec": "wwwroot\\panelcomponents\\css\\spur.css"
     },
     {
-      "Identity": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\panelcomponents\\css\\spur.min.css",
+      "Identity": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\panelcomponents\\css\\spur.min.css",
       "SourceId": "sporsalonutakipsistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
       "BasePath": "_content/sporsalonutakipsistemi",
       "RelativePath": "panelcomponents/css/spur.min.css",
       "AssetKind": "All",
@@ -2244,10 +2244,10 @@
       "OriginalItemSpec": "wwwroot\\panelcomponents\\css\\spur.min.css"
     },
     {
-      "Identity": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\panelcomponents\\html\\blank.html",
+      "Identity": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\panelcomponents\\html\\blank.html",
       "SourceId": "sporsalonutakipsistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
       "BasePath": "_content/sporsalonutakipsistemi",
       "RelativePath": "panelcomponents/html/blank.html",
       "AssetKind": "All",
@@ -2261,10 +2261,10 @@
       "OriginalItemSpec": "wwwroot\\panelcomponents\\html\\blank.html"
     },
     {
-      "Identity": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\panelcomponents\\html\\cards.html",
+      "Identity": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\panelcomponents\\html\\cards.html",
       "SourceId": "sporsalonutakipsistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
       "BasePath": "_content/sporsalonutakipsistemi",
       "RelativePath": "panelcomponents/html/cards.html",
       "AssetKind": "All",
@@ -2278,10 +2278,10 @@
       "OriginalItemSpec": "wwwroot\\panelcomponents\\html\\cards.html"
     },
     {
-      "Identity": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\panelcomponents\\html\\chartjs.html",
+      "Identity": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\panelcomponents\\html\\chartjs.html",
       "SourceId": "sporsalonutakipsistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
       "BasePath": "_content/sporsalonutakipsistemi",
       "RelativePath": "panelcomponents/html/chartjs.html",
       "AssetKind": "All",
@@ -2295,10 +2295,10 @@
       "OriginalItemSpec": "wwwroot\\panelcomponents\\html\\chartjs.html"
     },
     {
-      "Identity": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\panelcomponents\\html\\content.html",
+      "Identity": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\panelcomponents\\html\\content.html",
       "SourceId": "sporsalonutakipsistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
       "BasePath": "_content/sporsalonutakipsistemi",
       "RelativePath": "panelcomponents/html/content.html",
       "AssetKind": "All",
@@ -2312,10 +2312,10 @@
       "OriginalItemSpec": "wwwroot\\panelcomponents\\html\\content.html"
     },
     {
-      "Identity": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\panelcomponents\\html\\forms.html",
+      "Identity": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\panelcomponents\\html\\forms.html",
       "SourceId": "sporsalonutakipsistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
       "BasePath": "_content/sporsalonutakipsistemi",
       "RelativePath": "panelcomponents/html/forms.html",
       "AssetKind": "All",
@@ -2329,10 +2329,10 @@
       "OriginalItemSpec": "wwwroot\\panelcomponents\\html\\forms.html"
     },
     {
-      "Identity": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\panelcomponents\\html\\icons.html",
+      "Identity": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\panelcomponents\\html\\icons.html",
       "SourceId": "sporsalonutakipsistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
       "BasePath": "_content/sporsalonutakipsistemi",
       "RelativePath": "panelcomponents/html/icons.html",
       "AssetKind": "All",
@@ -2346,10 +2346,10 @@
       "OriginalItemSpec": "wwwroot\\panelcomponents\\html\\icons.html"
     },
     {
-      "Identity": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\panelcomponents\\html\\index.html",
+      "Identity": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\panelcomponents\\html\\index.html",
       "SourceId": "sporsalonutakipsistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
       "BasePath": "_content/sporsalonutakipsistemi",
       "RelativePath": "panelcomponents/html/index.html",
       "AssetKind": "All",
@@ -2363,10 +2363,10 @@
       "OriginalItemSpec": "wwwroot\\panelcomponents\\html\\index.html"
     },
     {
-      "Identity": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\panelcomponents\\html\\login.html",
+      "Identity": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\panelcomponents\\html\\login.html",
       "SourceId": "sporsalonutakipsistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
       "BasePath": "_content/sporsalonutakipsistemi",
       "RelativePath": "panelcomponents/html/login.html",
       "AssetKind": "All",
@@ -2380,10 +2380,10 @@
       "OriginalItemSpec": "wwwroot\\panelcomponents\\html\\login.html"
     },
     {
-      "Identity": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\panelcomponents\\html\\signup.html",
+      "Identity": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\panelcomponents\\html\\signup.html",
       "SourceId": "sporsalonutakipsistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
       "BasePath": "_content/sporsalonutakipsistemi",
       "RelativePath": "panelcomponents/html/signup.html",
       "AssetKind": "All",
@@ -2397,10 +2397,10 @@
       "OriginalItemSpec": "wwwroot\\panelcomponents\\html\\signup.html"
     },
     {
-      "Identity": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\panelcomponents\\html\\stats.html",
+      "Identity": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\panelcomponents\\html\\stats.html",
       "SourceId": "sporsalonutakipsistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
       "BasePath": "_content/sporsalonutakipsistemi",
       "RelativePath": "panelcomponents/html/stats.html",
       "AssetKind": "All",
@@ -2414,10 +2414,10 @@
       "OriginalItemSpec": "wwwroot\\panelcomponents\\html\\stats.html"
     },
     {
-      "Identity": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\panelcomponents\\html\\tables.html",
+      "Identity": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\panelcomponents\\html\\tables.html",
       "SourceId": "sporsalonutakipsistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
       "BasePath": "_content/sporsalonutakipsistemi",
       "RelativePath": "panelcomponents/html/tables.html",
       "AssetKind": "All",
@@ -2431,10 +2431,10 @@
       "OriginalItemSpec": "wwwroot\\panelcomponents\\html\\tables.html"
     },
     {
-      "Identity": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\panelcomponents\\html\\typography.html",
+      "Identity": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\panelcomponents\\html\\typography.html",
       "SourceId": "sporsalonutakipsistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
       "BasePath": "_content/sporsalonutakipsistemi",
       "RelativePath": "panelcomponents/html/typography.html",
       "AssetKind": "All",
@@ -2448,10 +2448,10 @@
       "OriginalItemSpec": "wwwroot\\panelcomponents\\html\\typography.html"
     },
     {
-      "Identity": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\panelcomponents\\html\\userinterface.html",
+      "Identity": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\panelcomponents\\html\\userinterface.html",
       "SourceId": "sporsalonutakipsistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
       "BasePath": "_content/sporsalonutakipsistemi",
       "RelativePath": "panelcomponents/html/userinterface.html",
       "AssetKind": "All",
@@ -2465,10 +2465,10 @@
       "OriginalItemSpec": "wwwroot\\panelcomponents\\html\\userinterface.html"
     },
     {
-      "Identity": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\panelcomponents\\js\\chart-js-config.js",
+      "Identity": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\panelcomponents\\js\\chart-js-config.js",
       "SourceId": "sporsalonutakipsistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
       "BasePath": "_content/sporsalonutakipsistemi",
       "RelativePath": "panelcomponents/js/chart-js-config.js",
       "AssetKind": "All",
@@ -2482,10 +2482,10 @@
       "OriginalItemSpec": "wwwroot\\panelcomponents\\js\\chart-js-config.js"
     },
     {
-      "Identity": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\panelcomponents\\js\\spur.js",
+      "Identity": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\panelcomponents\\js\\spur.js",
       "SourceId": "sporsalonutakipsistemi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Turkmen\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\wwwroot\\",
       "BasePath": "_content/sporsalonutakipsistemi",
       "RelativePath": "panelcomponents/js/spur.js",
       "AssetKind": "All",

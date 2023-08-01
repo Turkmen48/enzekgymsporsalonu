@@ -33,7 +33,7 @@ namespace sporsalonutakipsistemi.Controllers
         public IActionResult Index()
         {
             //User user = new User();
-            //user.Email = "anan@gmail.com";
+            //user.Email = "anweeen@gmail.com";
             //user.Password = "password";
             //userRepository.TAdd(user);
 

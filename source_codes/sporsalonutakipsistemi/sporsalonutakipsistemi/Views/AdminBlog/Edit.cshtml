@@ -3,7 +3,9 @@
     ViewData["Title"] = "Düzenle";
     Layout = "~/Views/Shared/_AdminLayout.cshtml";
 }
-
+@section Header{
+    <link href="https://cdn.jsdelivr.net/npm/summernote@0.8.18/dist/summernote.min.css" rel="stylesheet">
+}
 <h1>Blog Düzenle</h1>
 
 <form method="post" class="form-group">
@@ -30,10 +32,19 @@
     @Html.ValidationMessageFor(x=>x.ReadTime,"", new{@style="color:red;"})
     <br />
     <label>Blog Yazısı:</label>
-    @Html.TextAreaFor(x=>x.Content, new{@class="form-control"})
+    @Html.TextAreaFor(x=>x.Content, new{@class="form-control",@id="summernote"})
     @Html.ValidationMessageFor(x=>x.Content,"", new{@style="color:red;"})
     <br />
     
  
     <button type="submit" class="btn btn-outline-warning">Güncelle</button>
 </form>
+
+@section Scripts{
+    <script src="https://cdn.jsdelivr.net/npm/summernote@0.8.18/dist/summernote.min.js"></script>
+    <script>
+        $(document).ready(function () {
+            $('#summernote').summernote();
+        });
+    </script>
+}
