@@ -8,13 +8,13 @@ bir şekilde gösteren bir kullanıcı paneli de vardır. Demo olarak aşağıda
 E-mail: enesusta6638@gmail.com
 
 Site Link:
-https://enzekgym.online/
+https://enzekgym.turkmenstudio.com/
 
 Admin Panel:
-https://enzekgym.online/Admin kullanıcı adı ve şifre admin
+https://enzekgym.turkmenstudio.com/Admin kullanıcı adı ve şifre admin
 
 Kullanıcı Panel:
-https://enzekgym.online/User
+https://enzekgym.turkmenstudio.com/User
 
 
 
