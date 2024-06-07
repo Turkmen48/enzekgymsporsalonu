@@ -12,7 +12,7 @@ namespace sporsalonutakipsistemi.Models.Data
             //optionsBuilder.UseMySQL("server=localhost;Allow Zero Datetime=True;database=enzekgym_;user=enzekgym;password=enesusta2003.;");
 
             ////developer
-            optionsBuilder.UseMySQL("server=localhost;Allow Zero Datetime=True;database=sporsalonutakip;user=root;password=enesusta2003.;");
+            optionsBuilder.UseMySQL("server=localhost;Allow Zero Datetime=True;database=sporsalonutakip;user=root;password=sifre;");
 
         }
 
