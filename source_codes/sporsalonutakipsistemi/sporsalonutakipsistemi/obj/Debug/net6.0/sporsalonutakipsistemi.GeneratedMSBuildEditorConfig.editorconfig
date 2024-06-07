@@ -9,253 +9,255 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = sporsalonutakipsistemi
 build_property.RootNamespace = sporsalonutakipsistemi
-build_property.ProjectDir = C:\Users\TURKMEN\source\repos\sporsalonutakipsistemi\sporsalonutakipsistemi\
+build_property.ProjectDir = C:\Users\TURKMEN\Source\Repos\Turkmen48\enzekgymsporsalonu\source_codes\sporsalonutakipsistemi\sporsalonutakipsistemi\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\TURKMEN\source\repos\sporsalonutakipsistemi\sporsalonutakipsistemi
+build_property.MSBuildProjectDirectory = C:\Users\TURKMEN\Source\Repos\Turkmen48\enzekgymsporsalonu\source_codes\sporsalonutakipsistemi\sporsalonutakipsistemi
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/TURKMEN/source/repos/sporsalonutakipsistemi/sporsalonutakipsistemi/Views/AccessDenied/Index.cshtml]
+[C:/Users/TURKMEN/Source/Repos/Turkmen48/enzekgymsporsalonu/source_codes/sporsalonutakipsistemi/sporsalonutakipsistemi/Views/AccessDenied/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjZXNzRGVuaWVkXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/TURKMEN/source/repos/sporsalonutakipsistemi/sporsalonutakipsistemi/Views/AdminBlog/AddBlog.cshtml]
+[C:/Users/TURKMEN/Source/Repos/Turkmen48/enzekgymsporsalonu/source_codes/sporsalonutakipsistemi/sporsalonutakipsistemi/Views/AdminBlog/AddBlog.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5CbG9nXEFkZEJsb2cuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/TURKMEN/source/repos/sporsalonutakipsistemi/sporsalonutakipsistemi/Views/AdminBlog/Edit.cshtml]
+[C:/Users/TURKMEN/Source/Repos/Turkmen48/enzekgymsporsalonu/source_codes/sporsalonutakipsistemi/sporsalonutakipsistemi/Views/AdminBlog/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5CbG9nXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/TURKMEN/source/repos/sporsalonutakipsistemi/sporsalonutakipsistemi/Views/AdminBlog/Index.cshtml]
+[C:/Users/TURKMEN/Source/Repos/Turkmen48/enzekgymsporsalonu/source_codes/sporsalonutakipsistemi/sporsalonutakipsistemi/Views/AdminBlog/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5CbG9nXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/TURKMEN/source/repos/sporsalonutakipsistemi/sporsalonutakipsistemi/Views/AdminContact/AddEmailSetting.cshtml]
+[C:/Users/TURKMEN/Source/Repos/Turkmen48/enzekgymsporsalonu/source_codes/sporsalonutakipsistemi/sporsalonutakipsistemi/Views/AdminContact/AddEmailSetting.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5Db250YWN0XEFkZEVtYWlsU2V0dGluZy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/TURKMEN/source/repos/sporsalonutakipsistemi/sporsalonutakipsistemi/Views/AdminContact/Details.cshtml]
+[C:/Users/TURKMEN/Source/Repos/Turkmen48/enzekgymsporsalonu/source_codes/sporsalonutakipsistemi/sporsalonutakipsistemi/Views/AdminContact/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5Db250YWN0XERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/TURKMEN/source/repos/sporsalonutakipsistemi/sporsalonutakipsistemi/Views/AdminContact/EditEmailSettings.cshtml]
+[C:/Users/TURKMEN/Source/Repos/Turkmen48/enzekgymsporsalonu/source_codes/sporsalonutakipsistemi/sporsalonutakipsistemi/Views/AdminContact/EditEmailSettings.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5Db250YWN0XEVkaXRFbWFpbFNldHRpbmdzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/TURKMEN/source/repos/sporsalonutakipsistemi/sporsalonutakipsistemi/Views/AdminContact/Index.cshtml]
+[C:/Users/TURKMEN/Source/Repos/Turkmen48/enzekgymsporsalonu/source_codes/sporsalonutakipsistemi/sporsalonutakipsistemi/Views/AdminContact/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5Db250YWN0XEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/TURKMEN/source/repos/sporsalonutakipsistemi/sporsalonutakipsistemi/Views/AdminContact/Reply.cshtml]
+[C:/Users/TURKMEN/Source/Repos/Turkmen48/enzekgymsporsalonu/source_codes/sporsalonutakipsistemi/sporsalonutakipsistemi/Views/AdminContact/Reply.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5Db250YWN0XFJlcGx5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/TURKMEN/source/repos/sporsalonutakipsistemi/sporsalonutakipsistemi/Views/AdminPricing/AddPrice.cshtml]
+[C:/Users/TURKMEN/Source/Repos/Turkmen48/enzekgymsporsalonu/source_codes/sporsalonutakipsistemi/sporsalonutakipsistemi/Views/AdminPricing/AddPrice.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5QcmljaW5nXEFkZFByaWNlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/TURKMEN/source/repos/sporsalonutakipsistemi/sporsalonutakipsistemi/Views/AdminPricing/Details.cshtml]
+[C:/Users/TURKMEN/Source/Repos/Turkmen48/enzekgymsporsalonu/source_codes/sporsalonutakipsistemi/sporsalonutakipsistemi/Views/AdminPricing/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5QcmljaW5nXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/TURKMEN/source/repos/sporsalonutakipsistemi/sporsalonutakipsistemi/Views/AdminPricing/Edit.cshtml]
+[C:/Users/TURKMEN/Source/Repos/Turkmen48/enzekgymsporsalonu/source_codes/sporsalonutakipsistemi/sporsalonutakipsistemi/Views/AdminPricing/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5QcmljaW5nXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/TURKMEN/source/repos/sporsalonutakipsistemi/sporsalonutakipsistemi/Views/AdminPricing/Index.cshtml]
+[C:/Users/TURKMEN/Source/Repos/Turkmen48/enzekgymsporsalonu/source_codes/sporsalonutakipsistemi/sporsalonutakipsistemi/Views/AdminPricing/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5QcmljaW5nXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/TURKMEN/source/repos/sporsalonutakipsistemi/sporsalonutakipsistemi/Views/Admin/AddUser.cshtml]
+[C:/Users/TURKMEN/Source/Repos/Turkmen48/enzekgymsporsalonu/source_codes/sporsalonutakipsistemi/sporsalonutakipsistemi/Views/Admin/AddUser.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQWRkVXNlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/TURKMEN/source/repos/sporsalonutakipsistemi/sporsalonutakipsistemi/Views/Admin/Details.cshtml]
+[C:/Users/TURKMEN/Source/Repos/Turkmen48/enzekgymsporsalonu/source_codes/sporsalonutakipsistemi/sporsalonutakipsistemi/Views/Admin/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/TURKMEN/source/repos/sporsalonutakipsistemi/sporsalonutakipsistemi/Views/Admin/EditAbout.cshtml]
+[C:/Users/TURKMEN/Source/Repos/Turkmen48/enzekgymsporsalonu/source_codes/sporsalonutakipsistemi/sporsalonutakipsistemi/Views/Admin/EditAbout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cRWRpdEFib3V0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/TURKMEN/source/repos/sporsalonutakipsistemi/sporsalonutakipsistemi/Views/Admin/EditLogo.cshtml]
+[C:/Users/TURKMEN/Source/Repos/Turkmen48/enzekgymsporsalonu/source_codes/sporsalonutakipsistemi/sporsalonutakipsistemi/Views/Admin/EditLogo.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cRWRpdExvZ28uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/TURKMEN/source/repos/sporsalonutakipsistemi/sporsalonutakipsistemi/Views/Admin/EditSiteAdress.cshtml]
+[C:/Users/TURKMEN/Source/Repos/Turkmen48/enzekgymsporsalonu/source_codes/sporsalonutakipsistemi/sporsalonutakipsistemi/Views/Admin/EditSiteAdress.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cRWRpdFNpdGVBZHJlc3MuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/TURKMEN/source/repos/sporsalonutakipsistemi/sporsalonutakipsistemi/Views/Admin/EditSiteName.cshtml]
+[C:/Users/TURKMEN/Source/Repos/Turkmen48/enzekgymsporsalonu/source_codes/sporsalonutakipsistemi/sporsalonutakipsistemi/Views/Admin/EditSiteName.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cRWRpdFNpdGVOYW1lLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/TURKMEN/source/repos/sporsalonutakipsistemi/sporsalonutakipsistemi/Views/Admin/EditUser.cshtml]
+[C:/Users/TURKMEN/Source/Repos/Turkmen48/enzekgymsporsalonu/source_codes/sporsalonutakipsistemi/sporsalonutakipsistemi/Views/Admin/EditUser.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cRWRpdFVzZXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/TURKMEN/source/repos/sporsalonutakipsistemi/sporsalonutakipsistemi/Views/Admin/Index.cshtml]
+[C:/Users/TURKMEN/Source/Repos/Turkmen48/enzekgymsporsalonu/source_codes/sporsalonutakipsistemi/sporsalonutakipsistemi/Views/Admin/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/TURKMEN/source/repos/sporsalonutakipsistemi/sporsalonutakipsistemi/Views/Admin/PassiveUsers.cshtml]
+[C:/Users/TURKMEN/Source/Repos/Turkmen48/enzekgymsporsalonu/source_codes/sporsalonutakipsistemi/sporsalonutakipsistemi/Views/Admin/PassiveUsers.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cUGFzc2l2ZVVzZXJzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/TURKMEN/source/repos/sporsalonutakipsistemi/sporsalonutakipsistemi/Views/Admin/SocialMediaEdit.cshtml]
+[C:/Users/TURKMEN/Source/Repos/Turkmen48/enzekgymsporsalonu/source_codes/sporsalonutakipsistemi/sporsalonutakipsistemi/Views/Admin/SocialMediaEdit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cU29jaWFsTWVkaWFFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/TURKMEN/source/repos/sporsalonutakipsistemi/sporsalonutakipsistemi/Views/Admin/Users.cshtml]
+[C:/Users/TURKMEN/Source/Repos/Turkmen48/enzekgymsporsalonu/source_codes/sporsalonutakipsistemi/sporsalonutakipsistemi/Views/Admin/Users.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cVXNlcnMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/TURKMEN/source/repos/sporsalonutakipsistemi/sporsalonutakipsistemi/Views/Blog/Details.cshtml]
+[C:/Users/TURKMEN/Source/Repos/Turkmen48/enzekgymsporsalonu/source_codes/sporsalonutakipsistemi/sporsalonutakipsistemi/Views/Blog/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZ1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/TURKMEN/source/repos/sporsalonutakipsistemi/sporsalonutakipsistemi/Views/Blog/Index.cshtml]
+[C:/Users/TURKMEN/Source/Repos/Turkmen48/enzekgymsporsalonu/source_codes/sporsalonutakipsistemi/sporsalonutakipsistemi/Views/Blog/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZ1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/TURKMEN/source/repos/sporsalonutakipsistemi/sporsalonutakipsistemi/Views/Default/Index.cshtml]
+[C:/Users/TURKMEN/Source/Repos/Turkmen48/enzekgymsporsalonu/source_codes/sporsalonutakipsistemi/sporsalonutakipsistemi/Views/Default/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVmYXVsdFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/TURKMEN/source/repos/sporsalonutakipsistemi/sporsalonutakipsistemi/Views/Error/Index.cshtml]
+[C:/Users/TURKMEN/Source/Repos/Turkmen48/enzekgymsporsalonu/source_codes/sporsalonutakipsistemi/sporsalonutakipsistemi/Views/Error/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXJyb3JcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/TURKMEN/source/repos/sporsalonutakipsistemi/sporsalonutakipsistemi/Views/Expense/Add.cshtml]
+[C:/Users/TURKMEN/Source/Repos/Turkmen48/enzekgymsporsalonu/source_codes/sporsalonutakipsistemi/sporsalonutakipsistemi/Views/Expense/Add.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXhwZW5zZVxBZGQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/TURKMEN/source/repos/sporsalonutakipsistemi/sporsalonutakipsistemi/Views/Expense/Details.cshtml]
+[C:/Users/TURKMEN/Source/Repos/Turkmen48/enzekgymsporsalonu/source_codes/sporsalonutakipsistemi/sporsalonutakipsistemi/Views/Expense/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXhwZW5zZVxEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/TURKMEN/source/repos/sporsalonutakipsistemi/sporsalonutakipsistemi/Views/Expense/Index.cshtml]
+[C:/Users/TURKMEN/Source/Repos/Turkmen48/enzekgymsporsalonu/source_codes/sporsalonutakipsistemi/sporsalonutakipsistemi/Views/Expense/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXhwZW5zZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/TURKMEN/source/repos/sporsalonutakipsistemi/sporsalonutakipsistemi/Views/Hakkimizda/Index.cshtml]
+[C:/Users/TURKMEN/Source/Repos/Turkmen48/enzekgymsporsalonu/source_codes/sporsalonutakipsistemi/sporsalonutakipsistemi/Views/Hakkimizda/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFra2ltaXpkYVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/TURKMEN/source/repos/sporsalonutakipsistemi/sporsalonutakipsistemi/Views/Iletisim/Index.cshtml]
+[C:/Users/TURKMEN/Source/Repos/Turkmen48/enzekgymsporsalonu/source_codes/sporsalonutakipsistemi/sporsalonutakipsistemi/Views/Iletisim/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSWxldGlzaW1cSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/TURKMEN/source/repos/sporsalonutakipsistemi/sporsalonutakipsistemi/Views/Login/Index.cshtml]
+[C:/Users/TURKMEN/Source/Repos/Turkmen48/enzekgymsporsalonu/source_codes/sporsalonutakipsistemi/sporsalonutakipsistemi/Views/Login/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/TURKMEN/source/repos/sporsalonutakipsistemi/sporsalonutakipsistemi/Views/Login/UserLogin.cshtml]
+[C:/Users/TURKMEN/Source/Repos/Turkmen48/enzekgymsporsalonu/source_codes/sporsalonutakipsistemi/sporsalonutakipsistemi/Views/Login/UserLogin.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cVXNlckxvZ2luLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/TURKMEN/source/repos/sporsalonutakipsistemi/sporsalonutakipsistemi/Views/Revenue/Add.cshtml]
+[C:/Users/TURKMEN/Source/Repos/Turkmen48/enzekgymsporsalonu/source_codes/sporsalonutakipsistemi/sporsalonutakipsistemi/Views/Revenue/Add.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmV2ZW51ZVxBZGQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/TURKMEN/source/repos/sporsalonutakipsistemi/sporsalonutakipsistemi/Views/Revenue/Details.cshtml]
+[C:/Users/TURKMEN/Source/Repos/Turkmen48/enzekgymsporsalonu/source_codes/sporsalonutakipsistemi/sporsalonutakipsistemi/Views/Revenue/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmV2ZW51ZVxEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/TURKMEN/source/repos/sporsalonutakipsistemi/sporsalonutakipsistemi/Views/Revenue/Index.cshtml]
+[C:/Users/TURKMEN/Source/Repos/Turkmen48/enzekgymsporsalonu/source_codes/sporsalonutakipsistemi/sporsalonutakipsistemi/Views/Revenue/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmV2ZW51ZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/TURKMEN/source/repos/sporsalonutakipsistemi/sporsalonutakipsistemi/Views/Shared/Components/BlogFeatures/default.cshtml]
+[C:/Users/TURKMEN/Source/Repos/Turkmen48/enzekgymsporsalonu/source_codes/sporsalonutakipsistemi/sporsalonutakipsistemi/Views/Shared/Components/BlogFeatures/default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcQmxvZ0ZlYXR1cmVzXGRlZmF1bHQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/TURKMEN/source/repos/sporsalonutakipsistemi/sporsalonutakipsistemi/Views/Shared/Components/BlogFirstFeature/default.cshtml]
+[C:/Users/TURKMEN/Source/Repos/Turkmen48/enzekgymsporsalonu/source_codes/sporsalonutakipsistemi/sporsalonutakipsistemi/Views/Shared/Components/BlogFirstFeature/default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcQmxvZ0ZpcnN0RmVhdHVyZVxkZWZhdWx0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/TURKMEN/source/repos/sporsalonutakipsistemi/sporsalonutakipsistemi/Views/Shared/Components/BlogFooter/default.cshtml]
+[C:/Users/TURKMEN/Source/Repos/Turkmen48/enzekgymsporsalonu/source_codes/sporsalonutakipsistemi/sporsalonutakipsistemi/Views/Shared/Components/BlogFooter/default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcQmxvZ0Zvb3RlclxkZWZhdWx0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/TURKMEN/source/repos/sporsalonutakipsistemi/sporsalonutakipsistemi/Views/Shared/Components/IletisimAdress/default.cshtml]
+[C:/Users/TURKMEN/Source/Repos/Turkmen48/enzekgymsporsalonu/source_codes/sporsalonutakipsistemi/sporsalonutakipsistemi/Views/Shared/Components/IletisimAdress/default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcSWxldGlzaW1BZHJlc3NcZGVmYXVsdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/TURKMEN/source/repos/sporsalonutakipsistemi/sporsalonutakipsistemi/Views/Shared/Components/IndexAdress/default.cshtml]
+[C:/Users/TURKMEN/Source/Repos/Turkmen48/enzekgymsporsalonu/source_codes/sporsalonutakipsistemi/sporsalonutakipsistemi/Views/Shared/Components/IndexAdress/default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcSW5kZXhBZHJlc3NcZGVmYXVsdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/TURKMEN/source/repos/sporsalonutakipsistemi/sporsalonutakipsistemi/Views/Shared/Components/LogoUrl/default.cshtml]
+[C:/Users/TURKMEN/Source/Repos/Turkmen48/enzekgymsporsalonu/source_codes/sporsalonutakipsistemi/sporsalonutakipsistemi/Views/Shared/Components/LogoUrl/default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcTG9nb1VybFxkZWZhdWx0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/TURKMEN/source/repos/sporsalonutakipsistemi/sporsalonutakipsistemi/Views/Shared/Components/MonthlyCharge/default.cshtml]
+[C:/Users/TURKMEN/Source/Repos/Turkmen48/enzekgymsporsalonu/source_codes/sporsalonutakipsistemi/sporsalonutakipsistemi/Views/Shared/Components/MonthlyCharge/default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcTW9udGhseUNoYXJnZVxkZWZhdWx0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/TURKMEN/source/repos/sporsalonutakipsistemi/sporsalonutakipsistemi/Views/Shared/Components/MonthlyExpense/Default.cshtml]
+[C:/Users/TURKMEN/Source/Repos/Turkmen48/enzekgymsporsalonu/source_codes/sporsalonutakipsistemi/sporsalonutakipsistemi/Views/Shared/Components/MonthlyExpense/Default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcTW9udGhseUV4cGVuc2VcRGVmYXVsdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/TURKMEN/source/repos/sporsalonutakipsistemi/sporsalonutakipsistemi/Views/Shared/Components/MUsersCount/default.cshtml]
+[C:/Users/TURKMEN/Source/Repos/Turkmen48/enzekgymsporsalonu/source_codes/sporsalonutakipsistemi/sporsalonutakipsistemi/Views/Shared/Components/MUsersCount/default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcTVVzZXJzQ291bnRcZGVmYXVsdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/TURKMEN/source/repos/sporsalonutakipsistemi/sporsalonutakipsistemi/Views/Shared/Components/Notifications/default.cshtml]
+[C:/Users/TURKMEN/Source/Repos/Turkmen48/enzekgymsporsalonu/source_codes/sporsalonutakipsistemi/sporsalonutakipsistemi/Views/Shared/Components/Notifications/default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcTm90aWZpY2F0aW9uc1xkZWZhdWx0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/TURKMEN/source/repos/sporsalonutakipsistemi/sporsalonutakipsistemi/Views/Shared/Components/PUsersCount/default.cshtml]
+[C:/Users/TURKMEN/Source/Repos/Turkmen48/enzekgymsporsalonu/source_codes/sporsalonutakipsistemi/sporsalonutakipsistemi/Views/Shared/Components/PUsersCount/default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcUFVzZXJzQ291bnRcZGVmYXVsdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/TURKMEN/source/repos/sporsalonutakipsistemi/sporsalonutakipsistemi/Views/Shared/Components/SocialMedia/default.cshtml]
+[C:/Users/TURKMEN/Source/Repos/Turkmen48/enzekgymsporsalonu/source_codes/sporsalonutakipsistemi/sporsalonutakipsistemi/Views/Shared/Components/SocialMedia/default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcU29jaWFsTWVkaWFcZGVmYXVsdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/TURKMEN/source/repos/sporsalonutakipsistemi/sporsalonutakipsistemi/Views/Shared/Components/UsersCount/default.cshtml]
+[C:/Users/TURKMEN/Source/Repos/Turkmen48/enzekgymsporsalonu/source_codes/sporsalonutakipsistemi/sporsalonutakipsistemi/Views/Shared/Components/UsersCount/default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcVXNlcnNDb3VudFxkZWZhdWx0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/TURKMEN/source/repos/sporsalonutakipsistemi/sporsalonutakipsistemi/Views/Shared/Error.cshtml]
+[C:/Users/TURKMEN/Source/Repos/Turkmen48/enzekgymsporsalonu/source_codes/sporsalonutakipsistemi/sporsalonutakipsistemi/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/TURKMEN/source/repos/sporsalonutakipsistemi/sporsalonutakipsistemi/Views/Shared/_AdminLayout.cshtml]
+[C:/Users/TURKMEN/Source/Repos/Turkmen48/enzekgymsporsalonu/source_codes/sporsalonutakipsistemi/sporsalonutakipsistemi/Views/Shared/_AdminLayout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9BZG1pbkxheW91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/TURKMEN/source/repos/sporsalonutakipsistemi/sporsalonutakipsistemi/Views/Shared/_Layout.cshtml]
+[C:/Users/TURKMEN/Source/Repos/Turkmen48/enzekgymsporsalonu/source_codes/sporsalonutakipsistemi/sporsalonutakipsistemi/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/TURKMEN/source/repos/sporsalonutakipsistemi/sporsalonutakipsistemi/Views/Shared/_UserLayout.cshtml]
+[C:/Users/TURKMEN/Source/Repos/Turkmen48/enzekgymsporsalonu/source_codes/sporsalonutakipsistemi/sporsalonutakipsistemi/Views/Shared/_UserLayout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Vc2VyTGF5b3V0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/TURKMEN/source/repos/sporsalonutakipsistemi/sporsalonutakipsistemi/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/TURKMEN/Source/Repos/Turkmen48/enzekgymsporsalonu/source_codes/sporsalonutakipsistemi/sporsalonutakipsistemi/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/TURKMEN/source/repos/sporsalonutakipsistemi/sporsalonutakipsistemi/Views/User/Index.cshtml]
+[C:/Users/TURKMEN/Source/Repos/Turkmen48/enzekgymsporsalonu/source_codes/sporsalonutakipsistemi/sporsalonutakipsistemi/Views/User/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/TURKMEN/source/repos/sporsalonutakipsistemi/sporsalonutakipsistemi/Views/User/PriceDetails.cshtml]
+[C:/Users/TURKMEN/Source/Repos/Turkmen48/enzekgymsporsalonu/source_codes/sporsalonutakipsistemi/sporsalonutakipsistemi/Views/User/PriceDetails.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxQcmljZURldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/TURKMEN/source/repos/sporsalonutakipsistemi/sporsalonutakipsistemi/Views/User/SendMessage.cshtml]
+[C:/Users/TURKMEN/Source/Repos/Turkmen48/enzekgymsporsalonu/source_codes/sporsalonutakipsistemi/sporsalonutakipsistemi/Views/User/SendMessage.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxTZW5kTWVzc2FnZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/TURKMEN/source/repos/sporsalonutakipsistemi/sporsalonutakipsistemi/Views/_ViewImports.cshtml]
+[C:/Users/TURKMEN/Source/Repos/Turkmen48/enzekgymsporsalonu/source_codes/sporsalonutakipsistemi/sporsalonutakipsistemi/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/TURKMEN/source/repos/sporsalonutakipsistemi/sporsalonutakipsistemi/Views/_ViewStart.cshtml]
+[C:/Users/TURKMEN/Source/Repos/Turkmen48/enzekgymsporsalonu/source_codes/sporsalonutakipsistemi/sporsalonutakipsistemi/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

@@ -11244,11 +11244,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\sporsalonutakipsistemi.csproj",
+      "projectUniqueName": "C:\\Users\\TURKMEN\\Source\\Repos\\Turkmen48\\enzekgymsporsalonu\\source_codes\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\sporsalonutakipsistemi.csproj",
       "projectName": "sporsalonutakipsistemi",
-      "projectPath": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\sporsalonutakipsistemi.csproj",
+      "projectPath": "C:\\Users\\TURKMEN\\Source\\Repos\\Turkmen48\\enzekgymsporsalonu\\source_codes\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\sporsalonutakipsistemi.csproj",
       "packagesPath": "C:\\Users\\TURKMEN\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\obj\\",
+      "outputPath": "C:\\Users\\TURKMEN\\Source\\Repos\\Turkmen48\\enzekgymsporsalonu\\source_codes\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -11263,7 +11263,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\sdk\\7.0.306\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -11276,6 +11275,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -11342,7 +11346,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205\\RuntimeIdentifierGraph.json"
       }
     }
   }

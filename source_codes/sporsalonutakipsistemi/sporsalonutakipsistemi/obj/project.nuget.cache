@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Yk9wK/xh8Mc6OWQQa0ICrKgGMMkp2QtZD8OH4ldy+vH7h+ZqY5VjoFfmwLIamVUU1nid3HeZDb763vOmX7MRfQ==",
+  "dgSpecHash": "sqXHNaFiErPXuZ0ElQ9BVXokdaCtrVzrWx2t0+QAatWzP4siwMlqx0LKgjVRPM6GtR3XCvuB0tbWjzJOUl+R/A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\TURKMEN\\source\\repos\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\sporsalonutakipsistemi.csproj",
+  "projectFilePath": "C:\\Users\\TURKMEN\\Source\\Repos\\Turkmen48\\enzekgymsporsalonu\\source_codes\\sporsalonutakipsistemi\\sporsalonutakipsistemi\\sporsalonutakipsistemi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\TURKMEN\\.nuget\\packages\\closedxml\\0.101.0\\closedxml.0.101.0.nupkg.sha512",
     "C:\\Users\\TURKMEN\\.nuget\\packages\\documentformat.openxml\\2.16.0\\documentformat.openxml.2.16.0.nupkg.sha512",
