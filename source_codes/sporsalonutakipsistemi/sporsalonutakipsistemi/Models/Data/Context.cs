@@ -9,7 +9,7 @@ namespace sporsalonutakipsistemi.Models.Data
             //optionsBuilder.UseSqlServer("server=DESKTOP-4JD2R8F; database=sporsalonutakip; integrated security=true;  TrustServerCertificate=True  ");
 
             //relase
-            //optionsBuilder.UseMySQL("server=localhost;Allow Zero Datetime=True;database=enzekgym_;user=enzekgym;password=enesusta2003.;");
+            //optionsBuilder.UseMySQL("server=localhost;Allow Zero Datetime=True;database=enzekgym_;user=enzekgym;password=sifre;");
 
             ////developer
             optionsBuilder.UseMySQL("server=localhost;Allow Zero Datetime=True;database=sporsalonutakip;user=root;password=sifre;");
