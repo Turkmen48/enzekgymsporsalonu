@@ -571,11 +571,6 @@ C:\Users\TURKMEN\Source\Repos\Turkmen48\enzekgymsporsalonu\source_codes\sporsalo
 C:\Users\TURKMEN\Source\Repos\Turkmen48\enzekgymsporsalonu\source_codes\sporsalonutakipsistemi\sporsalonutakipsistemi\obj\Debug\net6.0\sporsalonutakipsistemi.sourcelink.json
 C:\Users\TURKMEN\Source\Repos\Turkmen48\enzekgymsporsalonu\source_codes\sporsalonutakipsistemi\sporsalonutakipsistemi\obj\Debug\net6.0\staticwebassets.build.json
 C:\Users\TURKMEN\Source\Repos\Turkmen48\enzekgymsporsalonu\source_codes\sporsalonutakipsistemi\sporsalonutakipsistemi\obj\Debug\net6.0\staticwebassets.development.json
-C:\Users\TURKMEN\Source\Repos\Turkmen48\enzekgymsporsalonu\source_codes\sporsalonutakipsistemi\sporsalonutakipsistemi\obj\Debug\net6.0\staticwebassets\msbuild.sporsalonutakipsistemi.Microsoft.AspNetCore.StaticWebAssets.props
-C:\Users\TURKMEN\Source\Repos\Turkmen48\enzekgymsporsalonu\source_codes\sporsalonutakipsistemi\sporsalonutakipsistemi\obj\Debug\net6.0\staticwebassets\msbuild.build.sporsalonutakipsistemi.props
-C:\Users\TURKMEN\Source\Repos\Turkmen48\enzekgymsporsalonu\source_codes\sporsalonutakipsistemi\sporsalonutakipsistemi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.sporsalonutakipsistemi.props
-C:\Users\TURKMEN\Source\Repos\Turkmen48\enzekgymsporsalonu\source_codes\sporsalonutakipsistemi\sporsalonutakipsistemi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.sporsalonutakipsistemi.props
-C:\Users\TURKMEN\Source\Repos\Turkmen48\enzekgymsporsalonu\source_codes\sporsalonutakipsistemi\sporsalonutakipsistemi\obj\Debug\net6.0\staticwebassets.pack.json
 C:\Users\TURKMEN\Source\Repos\Turkmen48\enzekgymsporsalonu\source_codes\sporsalonutakipsistemi\sporsalonutakipsistemi\obj\Debug\net6.0\scopedcss\bundle\sporsalonutakipsistemi.styles.css
 C:\Users\TURKMEN\Source\Repos\Turkmen48\enzekgymsporsalonu\source_codes\sporsalonutakipsistemi\sporsalonutakipsistemi\obj\Debug\net6.0\sporsalo.58E8219A.Up2Date
 C:\Users\TURKMEN\Source\Repos\Turkmen48\enzekgymsporsalonu\source_codes\sporsalonutakipsistemi\sporsalonutakipsistemi\obj\Debug\net6.0\sporsalonutakipsistemi.dll
@@ -583,3 +578,7 @@ C:\Users\TURKMEN\Source\Repos\Turkmen48\enzekgymsporsalonu\source_codes\sporsalo
 C:\Users\TURKMEN\Source\Repos\Turkmen48\enzekgymsporsalonu\source_codes\sporsalonutakipsistemi\sporsalonutakipsistemi\obj\Debug\net6.0\sporsalonutakipsistemi.pdb
 C:\Users\TURKMEN\Source\Repos\Turkmen48\enzekgymsporsalonu\source_codes\sporsalonutakipsistemi\sporsalonutakipsistemi\obj\Debug\net6.0\sporsalonutakipsistemi.genruntimeconfig.cache
 C:\Users\TURKMEN\Source\Repos\Turkmen48\enzekgymsporsalonu\source_codes\sporsalonutakipsistemi\sporsalonutakipsistemi\obj\Debug\net6.0\ref\sporsalonutakipsistemi.dll
+C:\Users\TURKMEN\source\repos\Turkmen48\enzekgymsporsalonu\source_codes\sporsalonutakipsistemi\sporsalonutakipsistemi\bin\Debug\net6.0\sporsalonutakipsistemi.staticwebassets.endpoints.json
+C:\Users\TURKMEN\source\repos\Turkmen48\enzekgymsporsalonu\source_codes\sporsalonutakipsistemi\sporsalonutakipsistemi\obj\Debug\net6.0\staticwebassets.build.json.cache
+C:\Users\TURKMEN\source\repos\Turkmen48\enzekgymsporsalonu\source_codes\sporsalonutakipsistemi\sporsalonutakipsistemi\obj\Debug\net6.0\staticwebassets.build.endpoints.json
+C:\Users\TURKMEN\source\repos\Turkmen48\enzekgymsporsalonu\source_codes\sporsalonutakipsistemi\sporsalonutakipsistemi\obj\Debug\net6.0\staticwebassets.upToDateCheck.txt

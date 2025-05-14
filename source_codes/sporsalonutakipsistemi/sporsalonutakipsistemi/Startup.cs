@@ -22,39 +22,7 @@ namespace sporsalonutakipsistemi
         {
 
             services.AddControllersWithViews();
-            services.AddAuthorization(options =>
-            {
-                options.AddPolicy("RequireAdminRole", policy => policy.RequireRole("Admin"));
-                options.AddPolicy("RequireUserRole", policy => policy.RequireRole("User"));
-            });
-            services.AddAuthentication("MyScheme")
-    .AddCookie("MyScheme", options =>
-    {
-        options.AccessDeniedPath = "/AccessDenied";
-        options.LoginPath = "/Login";
-        options.Events = new CookieAuthenticationEvents
-        {
-            OnRedirectToLogin = context =>
-            {
-                if (context.Request.Path.StartsWithSegments("/Admin") &&
-                    !context.Request.Path.StartsWithSegments("/Login"))
-                {
-                    context.Response.Redirect("/Login");
-                }
-                else if (context.Request.Path.StartsWithSegments("/User") &&
-                         !context.Request.Path.StartsWithSegments("/Login/UserLogin"))
-                {
-                    context.Response.Redirect("/Login/UserLogin");
-                }
-                else
-                {
-                    context.Response.Redirect(context.RedirectUri);
-                }
-
-                return Task.CompletedTask;
-            }
-        };
-    });
+            
 
         }
 

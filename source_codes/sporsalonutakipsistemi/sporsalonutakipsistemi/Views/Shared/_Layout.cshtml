@@ -27,7 +27,7 @@
     <link rel="stylesheet" href="~/gymlife/css/magnific-popup.css" type="text/css">
     <link rel="stylesheet" href="~/gymlife/css/slicknav.min.css" type="text/css">
     <link rel="stylesheet" href="~/gymlife/css/style.css" type="text/css">
-    @await RenderSectionAsync("DisqusCss",required:false)
+  
 </head>
 
 <body>
@@ -46,7 +46,7 @@
         <nav class="canvas-menu mobile-menu">
             <ul>
                 <li><a asp-action="Index" asp-controller="Default">Anasayfa</a></li>
-                <li><a asp-action="Index" asp-controller="Blog">Blog</a></li>
+                
                 <li><a asp-action="Index" asp-controller="Hakkimizda">Hakkımızda</a></li>
             
                 <li><a asp-action="Index" asp-controller="Iletisim">İletişim</a></li>
@@ -73,7 +73,7 @@
                     <nav class="nav-menu">
                         <ul>
                             <li class=""><a asp-action="Index" asp-controller="Default">Ana Sayfa</a></li>
-                            <li><a asp-action="Index" asp-controller="Blog">Blog</a></li>
+                            
                             <li><a asp-action="Index" asp-controller="Hakkimizda">Hakkımızda</a></li>
                        
                            
@@ -121,9 +121,9 @@
                     <div class="fs-widget">
                         <h4>Faydalı Linkler</h4>
                         <ul>
-                            <li><a href="#">Hakkımızda</a></li>
-                            <li><a href="#">Blog</a></li>
-                            <li><a href="#">İletişim</a></li>
+                            <li><a asp-action="Index" asp-controller="Hakkimizda">Hakkımızda</a></li>
+                            
+                          
                         </ul>
                     </div>
                 </div>
@@ -131,27 +131,21 @@
                     <div class="fs-widget">
                         <h4>Destek</h4>
                         <ul>
-                            <li><a asp-controller="Login" asp-action="UserLogin">Giriş Yap</a></li>
+                           
                       
                          
                             <li><a asp-controller="Iletisim" asp-action="Index">İletişim</a></li>
                         </ul>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6">
-                    <div class="fs-widget">
-                        <h4>Blog Yazıları</h4>
-						@await Component.InvokeAsync("BlogFooter")
-                        
-                    </div>
-                </div>
+             
             </div>
             <div class="row">
                 <div class="col-lg-12 text-center">
                     <div class="copyright-text">
                         <p>
                             <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-                            Copyright &copy;<script>document.write(new Date().getFullYear());</script> Tüm Hakları Saklıdır | Hazırlayan: <i class="fa fa-heart" aria-hidden="true"></i> by <a href="https://github.com/Turkmen48" target="_blank">Enes Durmuş ~ <a href="https://turkmenstudio.com">Türkmen Studio</a></a>
+                            Copyright &copy;<script>document.write(new Date().getFullYear());</script> Tüm Hakları Saklıdır | Hazırlayan: <i class="fa fa-heart" aria-hidden="true"></i> by <a href="#" target="_blank">Şevval Yavuz ~ </a>
                             <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
                         </p>
                     </div>
@@ -171,7 +165,7 @@
     <script src="~/gymlife/js/main.js"></script>
     <!-- Js Plugins -->
     <!-- disqus -->
-	@await RenderSectionAsync("Disqus", required: false)
+	
     <!-- disqus -->
 </body>
 
